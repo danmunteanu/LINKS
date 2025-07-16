@@ -1,4 +1,5 @@
 # A collection of useful links
+Most of the resources mentioned here are free to use. Some of them are paid (e.g. the Domestika.org course). I'll keep adding to this collection as time passes by.
 
 ## Free Media
 - [Pixabay - Free Images](https://pixabay.com/)
@@ -50,16 +51,16 @@
 - [Gammes](https://gammes.gridsound.com/)
 
 ## Path Of Exile
-- [MaxRoll.gg - Path Of Exile Build Guides ](https://maxroll.gg/poe)
 - [Path Of Building - Community Edition](https://pathofbuilding.community/)
-- [POE Vault - Build guides for Path Of Exile](https://www.poe-vault.com/guides/builds-for-path-of-exile)
+- [MaxRoll.gg - Path Of Exile Build Guides ](https://maxroll.gg/poe)
+- [POE Vault - Ghazzy's Build Guides For Path Of Exile](https://www.poe-vault.com/guides/builds-for-path-of-exile)
 - [POE Vault Leveling Guide](https://www.poe-vault.com/guides/quick-reference-leveling-guide-act-1)
-- [POE Trial Of Ascendancy Locations](https://www.poewiki.net/wiki/Trial_of_Ascendancy)
+- [Path Of Exile's Trial Of Ascendancy Locations](https://www.poewiki.net/wiki/Trial_of_Ascendancy)
 
 ## Romanian Voiceover
 - [Exercitii De Dictie Zile Libere](https://www.dictie.ro/exercitii-dictie-zilele-libere/)
 - [Exercitii De Dictie Complicate](https://www.dictie.ro/iata-cateva-exercitii-de-dictie-complicate/)
-- [Provocari - Exercitii De Dictie](https://www.dictie.ro/noi-provocari-exercitii-dictie/)
+- [Exercitii De Dictie Provocari](https://www.dictie.ro/noi-provocari-exercitii-dictie/)
 - [Antrenament Exercitii De Dictie](https://www.dictie.ro/antrenament-exercitii-de-dictie/)
 - [Exercitii De Dictie Celebre](https://www.dictie.ro/25-de-exercitii-de-dictie-celebre/)
 
