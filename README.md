@@ -6,13 +6,13 @@
 
 ## Development
 - [Chuck - Music Programming](https://chuck.stanford.edu/)
-- [Mermaid - Creating Diagrams](https://mermaid.js.org/syntax/gitgraph.html)
+- [Mermaid - Creating Diagrams (Gantt, Pie, Class, GitGraph)](https://mermaid.js.org/syntax/gitgraph.html)
 - [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns)
 
 ## Web Development
 - [Markdown Guide](https://markdownguide.offshoot.io/getting-started/)
-- [Jekyll Ruby - Transform Plain Text To Static Sites](https://jekyllrb.com/)
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
+- [Jekyll Ruby - Transform Plain Text To Static Sites](https://jekyllrb.com/)
 - [HTML Reference - Free Guide To HTML](https://htmlreference.io/)
 - [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
 - [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
@@ -63,3 +63,18 @@
 - [Antrenament Exercitii De Dictie](https://www.dictie.ro/antrenament-exercitii-de-dictie/)
 - [Exercitii De Dictie Celebre](https://www.dictie.ro/25-de-exercitii-de-dictie-celebre/)
 
+
+## Domestika.org
+#### HTML & Web
+- [Introduction to Responsive Web Development with HTML and CSS](https://www.domestika.org/en/courses/74-introduction-to-responsive-web-development-with-html-and-css)
+- [Web Layout with CSS Grid, Flexbox and other Modern Techniques](https://www.domestika.org/en/courses/389-web-layout-with-css-grid-flexbox-and-other-modern-techniques)
+#### DJ & Mixing
+- [Electronic Music Mixing From Beginner To DJ](https://www.domestika.org/en/courses/1078-electronic-music-mixing-from-beginner-to-dj)
+- [Live Mixing - Your First DJ Set With Pioneer DJ](https://www.domestika.org/en/courses/4278-live-mixing-your-first-dj-set-with-pioneer-dj)
+#### Voiceover
+- [Intro To Voice Over Techniques For Advertising](https://www.domestika.org/en/courses/3837-intro-to-voice-over-techniques-for-advertising)
+- [Introduction To Voice-Over Narration](https://www.domestika.org/en/courses/2763-introduction-to-voice-over-narration)
+- [Introduction To Voice Recording Techniques](https://www.domestika.org/en/courses/3538-introduction-to-voice-recording-techniques)
+#### Music Production
+- [Introduction To Music Production](https://www.domestika.org/en/courses/2419-introduction-to-music-production)
+- [Music Theory And Scoring For Film](https://www.domestika.org/en/courses/4584-music-theory-and-scoring-for-film)
