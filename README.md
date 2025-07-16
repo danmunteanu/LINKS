@@ -30,7 +30,7 @@
 - [Notepad++](https://notepad-plus-plus.org/)
 
 ## Health
-- [(Romanian) - Test Daltonism](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
+- [Test Daltonism (Romanian)](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
 
 ## Javascript Libraries
 - [Vue.js - Progressive Javascript Framework](https://vuejs.org/)
@@ -38,12 +38,12 @@
 - [Chart.js - JavaScript charting library](https://www.chartjs.org/)
 - [Chart.js - Radar](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html)
 - [Apex Charts - Modern Open-Source Charts](https://apexcharts.com/javascript-chart-demos/column-charts/column-with-data-labels/)
-- [Responsive Vertical Timeline](https://codyhouse.co/demo/vertical-timeline/index.html)
+- [Responsive Vertical Timeline (CodyHouse)](https://codyhouse.co/demo/vertical-timeline/index.html)
 - [LemonadeJS - Lightweight JS Library](https://lemonadejs.com/)
 - [LemonadeJS - Timeline](https://lemonadejs.com/docs/plugins/timeline)
-- [Wavesurfer - Open-source Audio Visualization Library](https://wavesurfer.xyz/)
-- [Vanta.js - Animated website backgrounds](https://www.vantajs.com/?effect=waves)
-- [Faker - Generate fake data for testing & development](https://fakerjs.dev/)
+- [Wavesurfer - Open-Source Audio Visualization Library](https://wavesurfer.xyz/)
+- [Vanta.js - Animated Website Backgrounds](https://www.vantajs.com/?effect=waves)
+- [Faker - Generate Fake Data For Testing & Development](https://fakerjs.dev/)
 - [GraphQL](https://graphql.org/)
 
 ## Apps
