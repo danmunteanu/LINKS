@@ -42,7 +42,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Ahrefs - Best Free Keyword Research Tools](https://ahrefs.com/blog/free-keyword-research-tools/)
 - [Ahrefs - Free SEO Tools](https://ahrefs.com/blog/free-seo-tools/)
 
-## Chuck
+## Chuck Music Programming
 ### Official Documentation
 - [List Of Audio Programming Languages](https://en.m.wikipedia.org/wiki/List_of_audio_programming_languages)
 - [WebChuck (IDE)](https://chuck.cs.princeton.edu/ide/)
@@ -52,26 +52,26 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Classes & Objects](https://chuck.cs.princeton.edu/doc/language/class.html)
 - [UGen - All](https://chuck.cs.princeton.edu/doc/program/ugen_full.html)
 ### Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*
-- [20 Classes](https://www.youtube.com/watch?v=1E9IeA4rueA)
-- [12 Panning and Randomization](https://www.youtube.com/watch?v=CifMDjAfHdA)
-- [09 ADSR](https://www.youtube.com/watch?v=zSkbXPwMNcM)
-- [40 Making A Video Game Soundtrack](https://www.youtube.com/watch?v=JlikA_zDbnc)
-
-## Music Theory
-- [Affective Musical Key Characteristics](https://legacy.wmich.edu/mus-theo/courses/keys.html) 
-- [Music Theory Tools](https://www.musictheory.net/tools)
-- [How You Should Feel in the Key of C Sharp Major / D flat major](https://interlude.hk/feel-key-c-sharp-major-d-flat-major/)
-- [How You Should Feel in the Key of G Minor](https://interlude.hk/feel-key-g-minor/)
+- [20 - Classes](https://www.youtube.com/watch?v=1E9IeA4rueA)
+- [12 - Panning and Randomization](https://www.youtube.com/watch?v=CifMDjAfHdA)
+- [09 - ADSR](https://www.youtube.com/watch?v=zSkbXPwMNcM)
+- [40 - Making A Video Game Soundtrack](https://www.youtube.com/watch?v=JlikA_zDbnc)
 
 ## Music
 - [No Rest For The Wicked (Original Early Access Soundtrack)](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu?flow_ctx=d3365456-b736-45ee-95f2-5b26df744c42%3A1752679796)
 
+## Music Theory
+- [Affective Musical Key Characteristics](https://legacy.wmich.edu/mus-theo/courses/keys.html) 
+- [How You Should Feel in the Key of C Sharp Major / D flat major](https://interlude.hk/feel-key-c-sharp-major-d-flat-major/)
+- [How You Should Feel in the Key of G Minor](https://interlude.hk/feel-key-g-minor/)
+- [Music Theory Tools](https://www.musictheory.net/tools)
+
 ## Three.js
-- [Dancing Stormtrooper](https://threejs.org/examples/#webgl_loader_collada_skinning)
 - [Voxels](https://threejs.org/examples/#webgl_interactive_voxelpainter)
+- [Dancing Stormtrooper](https://threejs.org/examples/#webgl_loader_collada_skinning)
 - [Rendering Simple Text](https://threejs.org/examples/#webgl_geometry_text_shapes)
 - [Raycasting](https://threejs.org/examples/#webgl_instancing_raycast)
-- [Three.js Primitives](https://threejs.org/manual/#en/primitives)
+- [Primitives](https://threejs.org/manual/#en/primitives)
 - [Box Geometry](https://threejs.org/docs/#api/en/geometries/BoxGeometry)
 - [Littlest Tokyo (Model)](https://sketchfab.com/3d-models/littlest-tokyo-94b24a60dc1b48248de50bf087c0f042)
 
@@ -80,6 +80,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Anime.js - Fast Javascript Animations](https://animejs.com/)
 - [Chart.js - JavaScript charting library](https://www.chartjs.org/)
 - [Chart.js - Radar](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html)
+- [PrimeVue - UI Suite](https://primevue.org/)
 - [Apex Charts - Modern Open-Source Charts](https://apexcharts.com/javascript-chart-demos/column-charts/column-with-data-labels/)
 - [Responsive Vertical Timeline (CodyHouse)](https://codyhouse.co/demo/vertical-timeline/index.html)
 - [LemonadeJS - Lightweight JS Library](https://lemonadejs.com/)
@@ -94,11 +95,14 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Gammes](https://gammes.gridsound.com/)
 
 ## Path Of Exile
-- [Path Of Building - Community Edition](https://pathofbuilding.community/)
+### Guides, Tutorials
 - [MaxRoll.gg - Path Of Exile Build Guides ](https://maxroll.gg/poe)
 - [POE Vault - Ghazzy's Build Guides For Path Of Exile](https://www.poe-vault.com/guides/builds-for-path-of-exile)
 - [POE Vault Leveling Guide](https://www.poe-vault.com/guides/quick-reference-leveling-guide-act-1)
 - [Path Of Exile's Trial Of Ascendancy Locations](https://www.poewiki.net/wiki/Trial_of_Ascendancy)
+- [Delve Guide To Fractured Walls](https://www.pathofexile.com/forum/view-thread/2204851/page/4)
+### Tools
+- [Path Of Building - Community Edition](https://pathofbuilding.community/)
 - [Craft Of Exile](https://www.craftofexile.com/)
 - [PoeNinja](https://poe.ninja/builds/mercenaries)
 - [Official Poe Trade](https://www.pathofexile.com/trade)
@@ -107,8 +111,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [X-Mouse](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm)
 - [Path Of Exile Regex](https://poe.re/)
 - [PoeDb](https://poedb.tw/us/)
-- [Chromatic Calculator](https://siveran.github.io/calc.html)
-- [Delve Guide To Fractured Walls](https://www.pathofexile.com/forum/view-thread/2204851/page/4)
+- [Chromatic Calculator](https://siveran.github.io/calc.html) 
 
 ## Health
 - [Test Daltonism (Romanian)](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
