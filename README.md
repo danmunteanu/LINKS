@@ -10,6 +10,12 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Mermaid - Creating Diagrams (Gantt, Pie, Class, GitGraph)](https://mermaid.js.org/syntax/gitgraph.html)
 - [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns)
 
+## Editors
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Notepad++](https://notepad-plus-plus.org/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [Obsidian](https://obsidian.md/)
+
 ## Web Development
 - [Markdown Guide](https://markdownguide.offshoot.io/getting-started/)
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
@@ -29,22 +35,6 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [50 Ideas For Blog Posts](https://louplummer.lol/50-ideas-for-blog-posts/)
 - [50 More Ideas For Blog Posts](https://louplummer.lol/50-more-blogging-prompts)
 
-## Chuck
-##### Official Documentation
-- [List Of Audio Programming Languages](https://en.m.wikipedia.org/wiki/List_of_audio_programming_languages)
-- [WebChuck (IDE)](https://chuck.cs.princeton.edu/ide/)
-- [Deep Stuff Examples](https://chuck.stanford.edu/doc/examples/#deep)
-- [Chunity Documentation](https://chuck.stanford.edu/chunity/documentation/)
-- [Unit Generators](https://chuck.stanford.edu/doc/language/ugen.html)
-- [Classes & Objects](https://chuck.cs.princeton.edu/doc/language/class.html)
-- [UGen - All](https://chuck.cs.princeton.edu/doc/program/ugen_full.html)
-##### Creating Electronic Music With Chuck
-*Tutorial Series by Clint Hoagland*
-- [20 Classes](https://www.youtube.com/watch?v=1E9IeA4rueA)
-- [12 Panning and Randomization](https://www.youtube.com/watch?v=CifMDjAfHdA)
-- [09 ADSR](https://www.youtube.com/watch?v=zSkbXPwMNcM)
-- [40 Making A Video Game Soundtrack](https://www.youtube.com/watch?v=JlikA_zDbnc)
-
 ## SEO
 - [Small SEO Tools](https://smallseotools.com/)
 - [The 2022 SEO Cheat Sheet](https://granwehr.com/blog/seo-cheat-sheet)
@@ -52,8 +42,20 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Ahrefs - Best Free Keyword Research Tools](https://ahrefs.com/blog/free-keyword-research-tools/)
 - [Ahrefs - Free SEO Tools](https://ahrefs.com/blog/free-seo-tools/)
 
-## Music
-- [No Rest For The Wicked (Original Early Access Soundtrack)](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu?flow_ctx=d3365456-b736-45ee-95f2-5b26df744c42%3A1752679796)
+## Chuck
+### Official Documentation
+- [List Of Audio Programming Languages](https://en.m.wikipedia.org/wiki/List_of_audio_programming_languages)
+- [WebChuck (IDE)](https://chuck.cs.princeton.edu/ide/)
+- [Deep Stuff Examples](https://chuck.stanford.edu/doc/examples/#deep)
+- [Chunity Documentation](https://chuck.stanford.edu/chunity/documentation/)
+- [Unit Generators](https://chuck.stanford.edu/doc/language/ugen.html)
+- [Classes & Objects](https://chuck.cs.princeton.edu/doc/language/class.html)
+- [UGen - All](https://chuck.cs.princeton.edu/doc/program/ugen_full.html)
+### Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*
+- [20 Classes](https://www.youtube.com/watch?v=1E9IeA4rueA)
+- [12 Panning and Randomization](https://www.youtube.com/watch?v=CifMDjAfHdA)
+- [09 ADSR](https://www.youtube.com/watch?v=zSkbXPwMNcM)
+- [40 Making A Video Game Soundtrack](https://www.youtube.com/watch?v=JlikA_zDbnc)
 
 ## Music Theory
 - [Affective Musical Key Characteristics](https://legacy.wmich.edu/mus-theo/courses/keys.html) 
@@ -61,11 +63,8 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [How You Should Feel in the Key of C Sharp Major / D flat major](https://interlude.hk/feel-key-c-sharp-major-d-flat-major/)
 - [How You Should Feel in the Key of G Minor](https://interlude.hk/feel-key-g-minor/)
 
-## Editors
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Notepad++](https://notepad-plus-plus.org/)
-- [Sublime Text](https://www.sublimetext.com/)
-- [Obsidian](https://obsidian.md/)
+## Music
+- [No Rest For The Wicked (Original Early Access Soundtrack)](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu?flow_ctx=d3365456-b736-45ee-95f2-5b26df744c42%3A1752679796)
 
 ## Three.js
 - [Dancing Stormtrooper](https://threejs.org/examples/#webgl_loader_collada_skinning)
