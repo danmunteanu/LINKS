@@ -33,9 +33,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 ## Editors
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
-
-## Health
-- [Test Daltonism (Romanian)](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
+- [Sublime Text](https://www.sublimetext.com/)
 
 ## Three.js
 - [Dancing Stormtrooper](https://threejs.org/examples/#webgl_loader_collada_skinning)
@@ -71,13 +69,15 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [POE Vault Leveling Guide](https://www.poe-vault.com/guides/quick-reference-leveling-guide-act-1)
 - [Path Of Exile's Trial Of Ascendancy Locations](https://www.poewiki.net/wiki/Trial_of_Ascendancy)
 
+## Health
+- [Test Daltonism (Romanian)](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
+
 ## Romanian Voiceover
 - [Exercitii De Dictie Zile Libere](https://www.dictie.ro/exercitii-dictie-zilele-libere/)
 - [Exercitii De Dictie Complicate](https://www.dictie.ro/iata-cateva-exercitii-de-dictie-complicate/)
 - [Exercitii De Dictie Provocari](https://www.dictie.ro/noi-provocari-exercitii-dictie/)
 - [Antrenament Exercitii De Dictie](https://www.dictie.ro/antrenament-exercitii-de-dictie/)
 - [Exercitii De Dictie Celebre](https://www.dictie.ro/25-de-exercitii-de-dictie-celebre/)
-
 
 ## Domestika.org
 #### HTML & Web
