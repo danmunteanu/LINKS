@@ -15,18 +15,33 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
 - [HTML Reference - Free Guide To HTML](https://htmlreference.io/)
 - [Jekyll Ruby - Transform Plain Text To Static Sites](https://jekyllrb.com/)
+- [FrontMatter Guide](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/)
 - [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
 - [A Detailed Guide To PHP Debugging](https://stackify.com/php-debugging-guide/)
 - [Laravel Unique Validation For Multiple Columns](https://laraveldaily.com/post/laravel-unique-validation-multiple-columns)
 - [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
 - [Install Wordpress On Ubuntu Using Docker](https://www.hostinger.com/tutorials/run-docker-wordpress)
 - [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
+- [How To Protect Your *wp-content* Folder (Wordpress)](https://hostadvice.com/how-to/website-builders/wordpress/how-to-protect-the-wp-content-folder-of-your-wordpress-website/)
+- [Golas](https://golas.blog/)
+
+## Blogging
+- [50 Ideas For Blog Posts](https://louplummer.lol/50-ideas-for-blog-posts/)
+- [50 More Ideas For Blog Posts](https://louplummer.lol/50-more-blogging-prompts)
+
+## SEO
+- [Small SEO Tools](https://smallseotools.com/)
+- [The 2022 SEO Cheat Sheet](https://granwehr.com/blog/seo-cheat-sheet)
+- [What Is A Good TF? DR? DA?](https://sagapixel.com/seo/what-is-a-good-tf-dr-da/)
+- [Ahrefs - Best Free Keyword Research Tools](https://ahrefs.com/blog/free-keyword-research-tools/)
+- [Ahrefs - Free SEO Tools](https://ahrefs.com/blog/free-seo-tools/)
 
 ## Music
 - [No Rest For The Wicked (Original Early Access Soundtrack)](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu?flow_ctx=d3365456-b736-45ee-95f2-5b26df744c42%3A1752679796)
 
 ## Music Theory
-- [Affective Musical Key Characteristics](https://legacy.wmich.edu/mus-theo/courses/keys.html)
+- [Affective Musical Key Characteristics](https://legacy.wmich.edu/mus-theo/courses/keys.html) 
+- [Music Theory Tools](https://www.musictheory.net/tools)
 - [How You Should Feel in the Key of C Sharp Major / D flat major](https://interlude.hk/feel-key-c-sharp-major-d-flat-major/)
 - [How You Should Feel in the Key of G Minor](https://interlude.hk/feel-key-g-minor/)
 
@@ -34,6 +49,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Sublime Text](https://www.sublimetext.com/)
+- [Obsidian](https://obsidian.md/)
 
 ## Three.js
 - [Dancing Stormtrooper](https://threejs.org/examples/#webgl_loader_collada_skinning)
@@ -68,6 +84,16 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [POE Vault - Ghazzy's Build Guides For Path Of Exile](https://www.poe-vault.com/guides/builds-for-path-of-exile)
 - [POE Vault Leveling Guide](https://www.poe-vault.com/guides/quick-reference-leveling-guide-act-1)
 - [Path Of Exile's Trial Of Ascendancy Locations](https://www.poewiki.net/wiki/Trial_of_Ascendancy)
+- [Craft Of Exile](https://www.craftofexile.com/)
+- [PoeNinja](https://poe.ninja/builds/mercenaries)
+- [Official Poe Trade](https://www.pathofexile.com/trade)
+- [Awakened Poe Trade](https://github.com/SnosMe/awakened-poe-trade/)
+- [FilterBlade](https://www.filterblade.xyz/)
+- [X-Mouse](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm)
+- [Path Of Exile Regex](https://poe.re/)
+- [PoeDb](https://poedb.tw/us/)
+- [Chromatic Calculator](https://siveran.github.io/calc.html)
+- [Delve Guide To Fractured Walls](https://www.pathofexile.com/forum/view-thread/2204851/page/4)
 
 ## Health
 - [Test Daltonism (Romanian)](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
@@ -93,3 +119,6 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 #### Music Production
 - [Introduction To Music Production](https://www.domestika.org/en/courses/2419-introduction-to-music-production)
 - [Music Theory And Scoring For Film](https://www.domestika.org/en/courses/4584-music-theory-and-scoring-for-film)
+
+## Fedora
+- [How To Change Fedora Splash Screen](https://www.makeuseof.com/how-to-change-fedora-splash-screen/)
