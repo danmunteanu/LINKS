@@ -10,14 +10,6 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Mermaid - Creating Diagrams (Gantt, Pie, Class, GitGraph)](https://mermaid.js.org/syntax/gitgraph.html)
 - [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns)
 
-## Three.js
-- [Dancing Stormtrooper](https://threejs.org/examples/#webgl_loader_collada_skinning)
-- [Voxels](https://threejs.org/examples/#webgl_interactive_voxelpainter)
-- [Rendering Simple Text](https://threejs.org/examples/#webgl_geometry_text_shapes)
-- [Raycasting](https://threejs.org/examples/#webgl_instancing_raycast)
-- [Three.js Primitives](https://threejs.org/manual/#en/primitives)
-- [Box Geometry](https://threejs.org/docs/#api/en/geometries/BoxGeometry)
-- [Littlest Tokyo (Model)](https://sketchfab.com/3d-models/littlest-tokyo-94b24a60dc1b48248de50bf087c0f042)
 ## Web Development
 - [Markdown Guide](https://markdownguide.offshoot.io/getting-started/)
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
@@ -44,6 +36,15 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ## Health
 - [Test Daltonism (Romanian)](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
+
+## Three.js
+- [Dancing Stormtrooper](https://threejs.org/examples/#webgl_loader_collada_skinning)
+- [Voxels](https://threejs.org/examples/#webgl_interactive_voxelpainter)
+- [Rendering Simple Text](https://threejs.org/examples/#webgl_geometry_text_shapes)
+- [Raycasting](https://threejs.org/examples/#webgl_instancing_raycast)
+- [Three.js Primitives](https://threejs.org/manual/#en/primitives)
+- [Box Geometry](https://threejs.org/docs/#api/en/geometries/BoxGeometry)
+- [Littlest Tokyo (Model)](https://sketchfab.com/3d-models/littlest-tokyo-94b24a60dc1b48248de50bf087c0f042)
 
 ## Javascript Libraries
 - [Vue.js - Progressive Javascript Framework](https://vuejs.org/)
