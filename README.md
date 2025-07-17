@@ -10,12 +10,24 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Mermaid - Creating Diagrams (Gantt, Pie, Class, GitGraph)](https://mermaid.js.org/syntax/gitgraph.html)
 - [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns)
 
+## Three.js
+- [Dancing Stormtrooper](https://threejs.org/examples/#webgl_loader_collada_skinning)
+- [Voxels](https://threejs.org/examples/#webgl_interactive_voxelpainter)
+- [Rendering Simple Text](https://threejs.org/examples/#webgl_geometry_text_shapes)
+- [Raycasting](https://threejs.org/examples/#webgl_instancing_raycast)
+- [Three.js Primitives](https://threejs.org/manual/#en/primitives)
+- [Box Geometry](https://threejs.org/docs/#api/en/geometries/BoxGeometry)
+- [Littlest Tokyo (Model)](https://sketchfab.com/3d-models/littlest-tokyo-94b24a60dc1b48248de50bf087c0f042)
 ## Web Development
 - [Markdown Guide](https://markdownguide.offshoot.io/getting-started/)
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
-- [Jekyll Ruby - Transform Plain Text To Static Sites](https://jekyllrb.com/)
 - [HTML Reference - Free Guide To HTML](https://htmlreference.io/)
+- [Jekyll Ruby - Transform Plain Text To Static Sites](https://jekyllrb.com/)
 - [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
+- [A Detailed Guide To PHP Debugging](https://stackify.com/php-debugging-guide/)
+- [Laravel Unique Validation For Multiple Columns](https://laraveldaily.com/post/laravel-unique-validation-multiple-columns)
+- [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
+- [Install Wordpress On Ubuntu Using Docker](https://www.hostinger.com/tutorials/run-docker-wordpress)
 - [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
 
 ## Music
@@ -45,6 +57,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Wavesurfer - Open-Source Audio Visualization Library](https://wavesurfer.xyz/)
 - [Vanta.js - Animated Website Backgrounds](https://www.vantajs.com/?effect=waves)
 - [Faker - Generate Fake Data For Testing & Development](https://fakerjs.dev/)
+- [Electron JS - Build Cross-Platform Desktop Apps](https://www.electronjs.org/)
 - [GraphQL](https://graphql.org/)
 
 ## Apps
