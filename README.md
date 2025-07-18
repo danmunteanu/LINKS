@@ -31,7 +31,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [How To Protect Your *wp-content* Folder (Wordpress)](https://hostadvice.com/how-to/website-builders/wordpress/how-to-protect-the-wp-content-folder-of-your-wordpress-website/)
 - [Golas](https://golas.blog/)
 
-## Blogging
+## Blogging & Utils
+- [Homemade Gifts - High Quality Free Calendar Templates](https://www.homemade-gifts-made-easy.com/index.html)
+- [Time And Date - Printable Calendars](https://www.timeanddate.com/calendar/create.html)
 - [50 Ideas For Blog Posts](https://louplummer.lol/50-ideas-for-blog-posts/)
 - [50 More Ideas For Blog Posts](https://louplummer.lol/50-more-blogging-prompts)
 
