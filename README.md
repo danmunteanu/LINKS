@@ -80,6 +80,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Chart.js - JavaScript charting library](https://www.chartjs.org/)
 - [Chart.js - Radar](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html)
 - [Apex Charts - Modern Open-Source Charts](https://apexcharts.com/javascript-chart-demos/column-charts/column-with-data-labels/)
+- [Air Datepicker - Lightweight, customizable datepicker written in pure JavaScript](https://air-datepicker.com/)
 - [Wavesurfer - Open-Source Audio Visualization Library](https://wavesurfer.xyz/)
 - [LemonadeJS - Lightweight JS Library](https://lemonadejs.com/)
 - [LemonadeJS - Timeline](https://lemonadejs.com/docs/plugins/timeline)
@@ -130,7 +131,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Antrenament Exercitii De Dictie](https://www.dictie.ro/antrenament-exercitii-de-dictie/)
 - [Exercitii De Dictie Celebre](https://www.dictie.ro/25-de-exercitii-de-dictie-celebre/)
 
-## Domestika.org
+## Domestika.org Courses
 #### HTML & Web
 - [Introduction to Responsive Web Development with HTML and CSS](https://www.domestika.org/en/courses/74-introduction-to-responsive-web-development-with-html-and-css)
 - [Web Layout with CSS Grid, Flexbox and other Modern Techniques](https://www.domestika.org/en/courses/389-web-layout-with-css-grid-flexbox-and-other-modern-techniques)
