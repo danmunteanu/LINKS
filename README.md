@@ -15,6 +15,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Obsidian](https://obsidian.md/)
+- [Zed - Intelligent Code Editor (Linux, Mac)](https://zed.dev/)
 
 ## Web Development
 ### HTML
@@ -25,6 +26,12 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [FrontMatter Guide](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/)
 - [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
 - [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
+
+### Resume
+- [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/#about)
+- [Dopefolio - DEMO](https://dopefolio.netlify.app/#projects)
+- [Dopefolio (Source Code)](https://github.com/rammcodes/Dopefolio)
+- [Resumake - Visually Design Your Resume](https://resumake.io/)
 
 ### Laravel & PHP
 - [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
@@ -121,8 +128,12 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [PoeDb](https://poedb.tw/us/)
 - [Chromatic Calculator](https://siveran.github.io/calc.html) 
 
+### Romania Only
+- [StartCo - Pornește-ți Afacerea](https://cloud.startco.ro/dashboard)
+- [Generator Declarație Unică](https://startco.ro/declaratia-unica)
+
 ## Health
-- [Test Daltonism (Romanian)](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
+- [Color Tests (Romanian)](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
 
 ## Romanian Voiceover
 - [Exercitii De Dictie Zile Libere](https://www.dictie.ro/exercitii-dictie-zilele-libere/)
