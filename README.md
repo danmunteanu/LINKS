@@ -6,16 +6,16 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Free Media Hack Yeah - The largest collection of free stuff on the internet](https://fmhy.net/)
 
 ## Software Development
-- [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns)
 - [Mermaid - Creating Diagrams (Gantt, Pie, Class, GitGraph)](https://mermaid.js.org/syntax/gitgraph.html)
+- [Design Patterns (Refactoring Guru) - Excellent Book!] (https://refactoring.guru/design-patterns)
 - [Golas (Blog)](https://golas.blog/)
 
 ## Editors
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Sublime Text](https://www.sublimetext.com/)
+- [Zed - Intelligent Code Editor (Linux and Mac)](https://zed.dev/)
 - [Obsidian](https://obsidian.md/)
-- [Zed - Intelligent Code Editor (Linux, Mac)](https://zed.dev/)
 
 ## Web Development
 ### HTML
@@ -128,9 +128,10 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [PoeDb](https://poedb.tw/us/)
 - [Chromatic Calculator](https://siveran.github.io/calc.html) 
 
-### Romania Only
+## In Romania Only
 - [StartCo - Pornește-ți Afacerea](https://cloud.startco.ro/dashboard)
 - [Generator Declarație Unică](https://startco.ro/declaratia-unica)
+- [Insuretech - Gestiunea Afacerii](https://insuretech.ro/)
 
 ## Health
 - [Color Tests (Romanian)](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
