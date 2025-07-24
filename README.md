@@ -7,7 +7,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ## Software Development
 - [Mermaid - Creating Diagrams (Gantt, Pie, Class, GitGraph)](https://mermaid.js.org/syntax/gitgraph.html)
-- [Design Patterns (Refactoring Guru) - Excellent Book!] (https://refactoring.guru/design-patterns)
+- [Design Patterns (Refactoring Guru) *Excellent Book!*](https://refactoring.guru/design-patterns)
 - [Golas (Blog)](https://golas.blog/)
 
 ## Editors
@@ -29,9 +29,10 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ### Resume
 - [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/#about)
-- [Dopefolio - DEMO](https://dopefolio.netlify.app/#projects)
+- [Dopefolio DEMO](https://dopefolio.netlify.app/#projects)
 - [Dopefolio (Source Code)](https://github.com/rammcodes/Dopefolio)
 - [Resumake - Visually Design Your Resume](https://resumake.io/)
+- [Resume Genius](https://resumegenius.com/)
 
 ### Laravel & PHP
 - [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
