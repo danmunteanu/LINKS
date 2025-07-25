@@ -32,12 +32,11 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Romanian Voiceover](#romanian-voiceover)
 - [Romanian Speaking Only](#romanian-speaking-only)
 - [Fedora](#fedora)
-- [Domestika.org Courses](#domestikaorg-courses)
+- [Courses (Domestika.org)](#courses-domestikaorg)
 	- [HTML & Web](#html--web)
 	- [DJ & Mixing](#dj--mixing)
 	- [Voiceovers](#voiceovers)
 	- [Music Production](#music-production)
-
 
 ## Free Media
 - [Free Media Hack Yeah](https://fmhy.net/)  - The largest collection of free stuff on the internet
@@ -57,12 +56,12 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Sublime Text](https://www.sublimetext.com/)
-- [Zed - Intelligent Code Editor (Linux and Mac)](https://zed.dev/)
 - [Obsidian](https://obsidian.md/)
+- [Zed - Intelligent Code Editor (Linux and Mac)](https://zed.dev/)
 
 ## Resume Builders / Templates
 - [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/#about)
-- [Dopefolio](https://dopefolio.netlify.app/#projects) - DEMO
+- [Dopefolio](https://dopefolio.netlify.app/#projects) - Projects portfolio DEMO
 - [Dopefolio](https://github.com/rammcodes/Dopefolio) - Source Code
 - [Resumake](https://resumake.io/) - Visually Design Your Resume
 - [Resume Genius](https://resumegenius.com/)
@@ -71,17 +70,17 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 ### HTML
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
 - [HTML Reference](https://htmlreference.io/) - Free Guide To HTML
-- [Jekyll Ruby](https://jekyllrb.com/) - Transform Plain Text To Static Sites
+- [Jekyll Ruby](https://jekyllrb.com/) - Plain Text To Static Sites
 - [FrontMatter Guide](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/)
 - [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
-- [CodyHouse](https://codyhouse.co/) - Web Design Templates
 - [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
 - [Responsive Vertical Timeline](https://codyhouse.co/demo/vertical-timeline/index.html) - Timeline Demo from CodyHouse
+- [CodyHouse](https://codyhouse.co/) - Web Design Templates
 
 ### Markdown
 - [The Best Markdown Guide](http://markdownguide.offshoot.io)
 - [Generate Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
-- [StackEdit)](https://stackedit.io/app#) - Markdown Editor #1
+- [StackEdit](https://stackedit.io/app#) - Markdown Editor #1
 - [Dilinger.Io](https://dillinger.io) - Markdown Editor #2
 - [Convert A Wordpress Site To Markdown](https://kevquirk.com/how-to-convert-wordpress-to-markdown)
 - [Epoch Converter](https://www.epochconverter.com/) - Timestamp Conversion Tools
@@ -95,17 +94,17 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Vue.js](https://vuejs.org/) - Progressive Javascript Framework
 - [PrimeVue](https://primevue.org/) - UI Suite For Vue.js
 - [Anime.js](https://animejs.com/) - Fast Javascript Animations
-- [Chart.js](https://www.chartjs.org/) - JavaScript charting library
 - [Chart.js](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html) - Radar Chart
+- [Chart.js](https://www.chartjs.org/) - JavaScript charting library
 - [Apex Charts](https://apexcharts.com/javascript-chart-demos/column-charts/column-with-data-labels/) - Modern Open-Source Charts
 - [Air Datepicker](https://air-datepicker.com/) - Lightweight, customizable datepicker written in pure JavaScript
 - [Wavesurfer](https://wavesurfer.xyz/) - Open-Source Audio Visualization Library
 - [LemonadeJS](https://lemonadejs.com/) - Lightweight JS Library
-- [LemonadeJS](https://lemonadejs.com/docs/plugins/timeline) - Timeline Plugin
+- [LemonadeJS Timeline](https://lemonadejs.com/docs/plugins/timeline) - Timeline Plugin From Lemonade JS
 - [Vanta.js](https://www.vantajs.com/?effect=waves) - Animated Website Backgrounds
 - [Faker](https://fakerjs.dev/) - Generate Fake Data For Testing & Development
 - [Electron JS](https://www.electronjs.org/) - Build Cross-Platform Desktop Apps
-- [GraphQL](https://graphql.org/)
+- [GraphQL](https://graphql.org/) - Query language for APIs
 
 ### Three.js - 3D Graphics Javascript Library
 - [Voxels](https://threejs.org/examples/#webgl_interactive_voxelpainter)
@@ -120,22 +119,23 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Install Wordpress On Ubuntu Using Docker](https://www.hostinger.com/tutorials/run-docker-wordpress)
 - [How To Protect Your *wp-content* Folder (Wordpress)](https://hostadvice.com/how-to/website-builders/wordpress/how-to-protect-the-wp-content-folder-of-your-wordpress-website/)
 - [Best Wordpress Page Builders](https://www.hostinger.com/tutorials/wordpress-page-builders)
-- [Mail Poet - Email For Wordpress](https://www.mailpoet.com/)
+- [Mail Poet](https://www.mailpoet.com/) - Email For Wordpress
 
 ## Blogging & Writing
-- [Reedsy Blog](https://blog.reedsy.com/)  - Amazing articles on writing
 - [50 Ideas For Blog Posts](https://louplummer.lol/50-ideas-for-blog-posts/)
 - [50 More Ideas For Blog Posts](https://louplummer.lol/50-more-blogging-prompts)
+- [Reedsy Blog](https://blog.reedsy.com/)  - Amazing articles on writing
+- [Quillbot](https://quillbot.com) - AI Writer, Paraphrasing
 
 ## SEO
 - [Small SEO Tools](https://smallseotools.com/)
 - [The 2022 SEO Cheat Sheet](https://granwehr.com/blog/seo-cheat-sheet)
 - [What Is A Good TF? DR? DA?](https://sagapixel.com/seo/what-is-a-good-tf-dr-da/)
 - [Ahrefs](https://ahrefs.com/blog/free-keyword-research-tools/) - Best Free Keyword Research Tools
-- [Ahrefs](https://ahrefs.com/blog/free-seo-tools/) - Free SEO Tools
+- [Ahrefs SEO Tools](https://ahrefs.com/blog/free-seo-tools/) - SEO Tools
 
 ## Software
-- [Winaero Tweaker](https://winaero.com/winaero-tweaker/)
+- [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - Tweak hidden Windows settings
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Open source disk encryption software
 
 ## Automation
@@ -146,12 +146,12 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 ### Chuck Documentation
 - [List Of Audio Programming Languages](https://en.m.wikipedia.org/wiki/List_of_audio_programming_languages)
 - [Chuck](https://chuck.stanford.edu/) - Music Programming Language
-- [WebChuck (IDE)](https://chuck.cs.princeton.edu/ide/)
+- [WebChuck IDE](https://chuck.cs.princeton.edu/ide/)
 - [Deep Stuff Examples](https://chuck.stanford.edu/doc/examples/#deep)
 - [Chunity Documentation](https://chuck.stanford.edu/chunity/documentation/)
 - [Unit Generators](https://chuck.stanford.edu/doc/language/ugen.html)
 - [Classes & Objects](https://chuck.cs.princeton.edu/doc/language/class.html)
-- [UGen - All](https://chuck.cs.princeton.edu/doc/program/ugen_full.html)
+- [UGen](https://chuck.cs.princeton.edu/doc/program/ugen_full.html) - All Chuck UGens
 ### Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*
 - [12 - Panning and Randomization](https://www.youtube.com/watch?v=CifMDjAfHdA)
 - [09 - ADSR](https://www.youtube.com/watch?v=zSkbXPwMNcM)
@@ -159,7 +159,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [40 - Making A Video Game Soundtrack](https://www.youtube.com/watch?v=JlikA_zDbnc)
 
 ## Music
-- [Men I Trust - Equus Caballus](https://menitrust.bandcamp.com/album/equus-caballus)
+- [Equus Caballus](https://menitrust.bandcamp.com/album/equus-caballus) - Music Album From Men I Trust
 - [No Rest For The Wicked (Original Early Access Soundtrack)](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu?flow_ctx=d3365456-b736-45ee-95f2-5b26df744c42%3A1752679796)
 
 ## Music Theory
@@ -167,7 +167,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [How You Should Feel in the Key of C Sharp Major / D flat major](https://interlude.hk/feel-key-c-sharp-major-d-flat-major/)
 - [How You Should Feel in the Key of G Minor](https://interlude.hk/feel-key-g-minor/)
 - [Music Theory Tools](https://www.musictheory.net/tools)
-- [ThinkSpace (Guy Mitchelmore)](https://thinkspace.ac.uk/courses/learn-music-theory/) - Learn Music Theory (Paid Course, excellent!)
+- [ThinkSpace - Learn Music Theory](https://thinkspace.ac.uk/courses/learn-music-theory/) - Amazing Music Theory Course by Guy Mitchelmore (Paid)
 
 ## Nice Sites
 - [Gammes](https://gammes.gridsound.com/)
@@ -202,7 +202,6 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ## Voiceover
 - [Cronometer](https://voce.md/en/cronometer) - Script reading duration estimate
-- [Quillbot](https://quillbot.com) - Paraphrasing
 
 ## Romanian Voiceover
 - [Exercitii De Dictie Zile Libere](https://www.dictie.ro/exercitii-dictie-zilele-libere/)
@@ -219,7 +218,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 ## Fedora
 - [How To Change Fedora Splash Screen](https://www.makeuseof.com/how-to-change-fedora-splash-screen/)
 
-## Domestika.org Courses
+## Courses (Domestika.org)
 #### HTML & Web
 - [Introduction to Responsive Web Development with HTML and CSS](https://www.domestika.org/en/courses/74-introduction-to-responsive-web-development-with-html-and-css)
 - [Web Layout with CSS Grid, Flexbox and other Modern Techniques](https://www.domestika.org/en/courses/389-web-layout-with-css-grid-flexbox-and-other-modern-techniques)
