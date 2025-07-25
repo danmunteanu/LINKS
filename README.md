@@ -22,7 +22,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Music Theory](#music-theory)
 - [Javascript Libraries](#javascript-libraries)
 - [Three.js](#threejs)
-- [Apps](#apps)
+- [Nice Sites](#nice-sites)
 - [Path Of Exile](#path-of-exile)
 	- [Guides, Tutorials](#guides-tutorials)
 	- [Tools](#tools)
@@ -33,10 +33,10 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Romanian Speaking Only](#romanian-speaking-only)
 - [Fedora](#fedora)
 - [Domestika.org Courses](#domestikaorg-courses)
-		- [HTML & Web](#html--web)
-		- [DJ & Mixing](#dj--mixing)
-		- [Voiceovers](#voiceovers)
-		- [Music Production](#music-production)
+	- [HTML & Web](#html--web)
+	- [DJ & Mixing](#dj--mixing)
+	- [Voiceovers](#voiceovers)
+	- [Music Production](#music-production)
 
 
 ## Free Media
@@ -110,11 +110,11 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ## Software
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/)
-- [VeraCrypt](https://www.veracrypt.fr/en/Home.html) – Open source disk encryption software
+- [VeraCrypt – Open source disk encryption software](https://www.veracrypt.fr/en/Home.html)
 
 ## Automation
-- [n8n - Flexible AI Workflow Automation](https://n8n.io/)
 - [Zapier - Orchestration Platform](https://zapier.com/)
+- [n8n - Flexible AI Workflow Automation](https://n8n.io/)
 
 ## Music Programming
 ### Chuck Documentation
@@ -127,9 +127,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Classes & Objects](https://chuck.cs.princeton.edu/doc/language/class.html)
 - [UGen - All](https://chuck.cs.princeton.edu/doc/program/ugen_full.html)
 ### Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*
-- [20 - Classes](https://www.youtube.com/watch?v=1E9IeA4rueA)
 - [12 - Panning and Randomization](https://www.youtube.com/watch?v=CifMDjAfHdA)
 - [09 - ADSR](https://www.youtube.com/watch?v=zSkbXPwMNcM)
+- [20 - Classes](https://www.youtube.com/watch?v=1E9IeA4rueA)
 - [40 - Making A Video Game Soundtrack](https://www.youtube.com/watch?v=JlikA_zDbnc)
 
 ## Music
@@ -169,7 +169,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Box Geometry](https://threejs.org/docs/#api/en/geometries/BoxGeometry)
 - [Littlest Tokyo (Model)](https://sketchfab.com/3d-models/littlest-tokyo-94b24a60dc1b48248de50bf087c0f042)
 
-## Apps
+## Nice Sites
 - [Gammes](https://gammes.gridsound.com/)
 
 ## Path Of Exile
@@ -182,10 +182,10 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ### Tools
 - [Path Of Building - Community Edition](https://pathofbuilding.community/)
-- [Awakened Poe Trade](https://github.com/SnosMe/awakened-poe-trade/)
 - [FilterBlade (Item Filter)](https://www.filterblade.xyz/)
-- [X-Mouse](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm)
+- [Awakened Poe Trade](https://github.com/SnosMe/awakened-poe-trade/)
 - [Official Poe Trade](https://www.pathofexile.com/trade)
+- [X-Mouse](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm)
 - [PoeNinja](https://poe.ninja/builds/mercenaries)
 - [Craft Of Exile](https://www.craftofexile.com/)
 - [Path Of Exile Regex](https://poe.re/)
