@@ -43,12 +43,14 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Pixabay - Free Images](https://pixabay.com/)
 - [Remove Photo Background](https://www.remove.bg/upload)
 - [Convert PNG To Icons](https://convertico.com/)
-- [Live Webcam JR Sapporo Station, Hokkaido, Japan](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) (and other parts of the world)
+- [Time And Date](https://www.timeanddate.com/calendar/create.html) - Printable Calendars
+- [Homemade Gifts](https://www.homemade-gifts-made-easy.com/index.html) - High Quality Free Calendar Templates
+- [Live Webcam JR](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) - Live Webcam from Sapporo Station, Hokkaido, Japan
 
 ## Software Development
-- [Mermaid - Creating Diagrams (Gantt, Pie, Class, GitGraph)](https://mermaid.js.org/syntax/gitgraph.html)
 - [Design Patterns (Refactoring Guru) *Excellent Book!*](https://refactoring.guru/design-patterns)
-- [Golas (Blog)](https://golas.blog/)
+- [Mermaid](https://mermaid.js.org/syntax/gitgraph.html) - Create Diagrams (Gantt, Pie, Class, GitGraph)
+- [Golas](https://golas.blog/) - Programming Blo
 
 ## Editors
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -93,12 +95,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Mail Poet - Email For Wordpress](https://www.mailpoet.com/)
 
 ## Blogging & Writing
-- [Homemade Gifts - High Quality Free Calendar Templates](https://www.homemade-gifts-made-easy.com/index.html)
+- [Reedsy Blog – Amazing articles on writing](https://blog.reedsy.com/) 
 - [50 Ideas For Blog Posts](https://louplummer.lol/50-ideas-for-blog-posts/)
 - [50 More Ideas For Blog Posts](https://louplummer.lol/50-more-blogging-prompts)
-- [Time And Date - Printable Calendars](https://www.timeanddate.com/calendar/create.html)
-- [Mail Poet - Email For Wordpress](https://www.mailpoet.com/)
-- [Reedsy Blog – Amazing articles on writing](https://blog.reedsy.com/) 
 
 ## SEO
 - [Small SEO Tools](https://smallseotools.com/)
