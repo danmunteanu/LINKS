@@ -10,6 +10,8 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 	- [HTML](#html)
 	- [Markdown](#markdown)
 	- [Laravel & PHP](#laravel--php)
+	- [Javascript Libraries](#javascript-libraries)
+	- [Three.js - 3D Graphics Javascript Library](#threejs---3d-graphics-javascript-library)
 	- [Wordpress](#wordpress)
 - [Blogging & Writing](#blogging--writing)
 - [SEO](#seo)
@@ -20,8 +22,6 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 	- [Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*](#creating-electronic-music-with-chuck---tutorial-series-by-clint-hoagland)
 - [Music](#music)
 - [Music Theory](#music-theory)
-- [Javascript Libraries](#javascript-libraries)
-- [Three.js](#threejs)
 - [Nice Sites](#nice-sites)
 - [Path Of Exile](#path-of-exile)
 	- [Guides, Tutorials](#guides-tutorials)
@@ -37,6 +37,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 	- [DJ & Mixing](#dj--mixing)
 	- [Voiceovers](#voiceovers)
 	- [Music Production](#music-production)
+
 
 ## Free Media
 - [Free Media Hack Yeah](https://fmhy.net/)  - The largest collection of free stuff on the internet
@@ -73,7 +74,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Jekyll Ruby](https://jekyllrb.com/) - Transform Plain Text To Static Sites
 - [FrontMatter Guide](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/)
 - [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
+- [CodyHouse](https://codyhouse.co/) - Web Design Templates
 - [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
+- [Responsive Vertical Timeline](https://codyhouse.co/demo/vertical-timeline/index.html) - Timeline Demo from CodyHouse
 
 ### Markdown
 - [The Best Markdown Guide](http://markdownguide.offshoot.io)
@@ -87,6 +90,31 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
 - [Laravel Unique Validation For Multiple Columns](https://laraveldaily.com/post/laravel-unique-validation-multiple-columns)
 - [A Detailed Guide To PHP Debugging](https://stackify.com/php-debugging-guide/)
+
+### Javascript Libraries
+- [Vue.js](https://vuejs.org/) - Progressive Javascript Framework
+- [PrimeVue](https://primevue.org/) - UI Suite For Vue.js
+- [Anime.js](https://animejs.com/) - Fast Javascript Animations
+- [Chart.js](https://www.chartjs.org/) - JavaScript charting library
+- [Chart.js](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html) - Radar Chart
+- [Apex Charts](https://apexcharts.com/javascript-chart-demos/column-charts/column-with-data-labels/) - Modern Open-Source Charts
+- [Air Datepicker](https://air-datepicker.com/) - Lightweight, customizable datepicker written in pure JavaScript
+- [Wavesurfer](https://wavesurfer.xyz/) - Open-Source Audio Visualization Library
+- [LemonadeJS](https://lemonadejs.com/) - Lightweight JS Library
+- [LemonadeJS](https://lemonadejs.com/docs/plugins/timeline) - Timeline Plugin
+- [Vanta.js](https://www.vantajs.com/?effect=waves) - Animated Website Backgrounds
+- [Faker](https://fakerjs.dev/) - Generate Fake Data For Testing & Development
+- [Electron JS](https://www.electronjs.org/) - Build Cross-Platform Desktop Apps
+- [GraphQL](https://graphql.org/)
+
+### Three.js - 3D Graphics Javascript Library
+- [Voxels](https://threejs.org/examples/#webgl_interactive_voxelpainter)
+- [Dancing Stormtrooper](https://threejs.org/examples/#webgl_loader_collada_skinning)
+- [Rendering Simple Text](https://threejs.org/examples/#webgl_geometry_text_shapes)
+- [Raycasting](https://threejs.org/examples/#webgl_instancing_raycast)
+- [Primitives](https://threejs.org/manual/#en/primitives)
+- [Box Geometry](https://threejs.org/docs/#api/en/geometries/BoxGeometry)
+- [Littlest Tokyo (Model)](https://sketchfab.com/3d-models/littlest-tokyo-94b24a60dc1b48248de50bf087c0f042)
 
 ### Wordpress
 - [Install Wordpress On Ubuntu Using Docker](https://www.hostinger.com/tutorials/run-docker-wordpress)
@@ -140,32 +168,6 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [How You Should Feel in the Key of G Minor](https://interlude.hk/feel-key-g-minor/)
 - [Music Theory Tools](https://www.musictheory.net/tools)
 - [ThinkSpace (Guy Mitchelmore)](https://thinkspace.ac.uk/courses/learn-music-theory/) - Learn Music Theory (Paid Course, excellent!)
-
-## Javascript Libraries
-- [Vue.js](https://vuejs.org/) - Progressive Javascript Framework
-- [PrimeVue](https://primevue.org/) - UI Suite For Vue.js
-- [Anime.js](https://animejs.com/) - Fast Javascript Animations
-- [Chart.js](https://www.chartjs.org/) - JavaScript charting library
-- [Chart.js](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html) - Radar Chart
-- [Apex Charts](https://apexcharts.com/javascript-chart-demos/column-charts/column-with-data-labels/) - Modern Open-Source Charts
-- [Air Datepicker](https://air-datepicker.com/) - Lightweight, customizable datepicker written in pure JavaScript
-- [Wavesurfer](https://wavesurfer.xyz/) - Open-Source Audio Visualization Library
-- [LemonadeJS](https://lemonadejs.com/) - Lightweight JS Library
-- [LemonadeJS](https://lemonadejs.com/docs/plugins/timeline) - Timeline Plugin
-- [Responsive Vertical Timeline (CodyHouse)](https://codyhouse.co/demo/vertical-timeline/index.html)
-- [Vanta.js](https://www.vantajs.com/?effect=waves) - Animated Website Backgrounds
-- [Faker](https://fakerjs.dev/) - Generate Fake Data For Testing & Development
-- [Electron JS](https://www.electronjs.org/) - Build Cross-Platform Desktop Apps
-- [GraphQL](https://graphql.org/)
-
-## Three.js
-- [Voxels](https://threejs.org/examples/#webgl_interactive_voxelpainter)
-- [Dancing Stormtrooper](https://threejs.org/examples/#webgl_loader_collada_skinning)
-- [Rendering Simple Text](https://threejs.org/examples/#webgl_geometry_text_shapes)
-- [Raycasting](https://threejs.org/examples/#webgl_instancing_raycast)
-- [Primitives](https://threejs.org/manual/#en/primitives)
-- [Box Geometry](https://threejs.org/docs/#api/en/geometries/BoxGeometry)
-- [Littlest Tokyo (Model)](https://sketchfab.com/3d-models/littlest-tokyo-94b24a60dc1b48248de50bf087c0f042)
 
 ## Nice Sites
 - [Gammes](https://gammes.gridsound.com/)
