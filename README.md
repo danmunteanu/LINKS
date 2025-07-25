@@ -2,41 +2,42 @@
 Most of the resources mentioned here are free to use. Some of them are paid (e.g. the Domestika.org courses). I'll keep adding links to this collection as time passes by.
 
 ## Index
-- [[#Free Media|Free Media]]
-- [[#Software Development|Software Development]]
-- [[#Editors|Editors]]
-- [[#Resume Builders / Templates|Resume Builders / Templates]]
-- [[#Web Development|Web Development]]
-	- [[#Web Development#HTML|HTML]]
-	- [[#Web Development#Markdown|Markdown]]
-	- [[#Web Development#Laravel & PHP|Laravel & PHP]]
-	- [[#Web Development#Wordpress|Wordpress]]
-- [[#Blogging & Writing|Blogging & Writing]]
-- [[#SEO|SEO]]
-- [[#Software|Software]]
-- [[#Automation|Automation]]
-- [[#Music Programming|Music Programming]]
-	- [[#Music Programming#Chuck Documentation|Chuck Documentation]]
-	- [[#Music Programming#Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*|Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*]]
-- [[#Music|Music]]
-- [[#Music Theory|Music Theory]]
-- [[#Javascript Libraries|Javascript Libraries]]
-- [[#Three.js|Three.js]]
-- [[#Apps|Apps]]
-- [[#Path Of Exile|Path Of Exile]]
-	- [[#Path Of Exile#Guides, Tutorials|Guides, Tutorials]]
-	- [[#Path Of Exile#Tools|Tools]]
-- [[#Health|Health]]
-- [[#Audio Processing|Audio Processing]]
-- [[#Voiceover|Voiceover]]
-- [[#Romanian Voiceover|Romanian Voiceover]]
-- [[#Romanian Speaking Only|Romanian Speaking Only]]
-- [[#Fedora|Fedora]]
-- [[#Domestika.org Courses|Domestika.org Courses]]
-	- [[#Tools#HTML & Web|HTML & Web]]
-	- [[#Tools#DJ & Mixing|DJ & Mixing]]
-	- [[#Tools#Voiceovers|Voiceovers]]
-	- [[#Tools#Music Production|Music Production]]
+- [Free Media](#free-media)
+- [Software Development](#software-development)
+- [Editors](#editors)
+- [Resume Builders / Templates](#resume-builders--templates)
+- [Web Development](#web-development)
+	- [HTML](#html)
+	- [Markdown](#markdown)
+	- [Laravel & PHP](#laravel--php)
+	- [Wordpress](#wordpress)
+- [Blogging & Writing](#blogging--writing)
+- [SEO](#seo)
+- [Software](#software)
+- [Automation](#automation)
+- [Music Programming](#music-programming)
+	- [Chuck Documentation](#chuck-documentation)
+	- [Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*](#creating-electronic-music-with-chuck---tutorial-series-by-clint-hoagland)
+- [Music](#music)
+- [Music Theory](#music-theory)
+- [Javascript Libraries](#javascript-libraries)
+- [Three.js](#threejs)
+- [Apps](#apps)
+- [Path Of Exile](#path-of-exile)
+	- [Guides, Tutorials](#guides-tutorials)
+	- [Tools](#tools)
+- [Health](#health)
+- [Audio Processing](#audio-processing)
+- [Voiceover](#voiceover)
+- [Romanian Voiceover](#romanian-voiceover)
+- [Romanian Speaking Only](#romanian-speaking-only)
+- [Fedora](#fedora)
+- [Domestika.org Courses](#domestikaorg-courses)
+		- [HTML & Web](#html--web)
+		- [DJ & Mixing](#dj--mixing)
+		- [Voiceovers](#voiceovers)
+		- [Music Production](#music-production)
+
 
 ## Free Media
 - [Free Media Hack Yeah - The largest collection of free stuff on the internet](https://fmhy.net/)
