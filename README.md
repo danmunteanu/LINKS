@@ -39,8 +39,8 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 	- [Music Production](#music-production)
 
 ## Free Media
-- [Free Media Hack Yeah - The largest collection of free stuff on the internet](https://fmhy.net/)
-- [Pixabay - Free Images](https://pixabay.com/)
+- [Free Media Hack Yeah](https://fmhy.net/)  - The largest collection of free stuff on the internet
+- [Pixabay](https://pixabay.com/) - Free high-quality images
 - [Remove Photo Background](https://www.remove.bg/upload)
 - [Convert PNG To Icons](https://convertico.com/)
 - [Time And Date](https://www.timeanddate.com/calendar/create.html) - Printable Calendars
@@ -48,9 +48,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Live Webcam JR](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) - Live Webcam from Sapporo Station, Hokkaido, Japan
 
 ## Software Development
-- [Design Patterns (Refactoring Guru) *Excellent Book!*](https://refactoring.guru/design-patterns)
+- [Design Patterns From Refactoring Guru](https://refactoring.guru/design-patterns) - Amazing book on design patterns
 - [Mermaid](https://mermaid.js.org/syntax/gitgraph.html) - Create Diagrams (Gantt, Pie, Class, GitGraph)
-- [Golas](https://golas.blog/) - Programming Blo
+- [Golas](https://golas.blog/) - Programming Blog
 
 ## Editors
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -61,16 +61,16 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ## Resume Builders / Templates
 - [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/#about)
-- [Dopefolio DEMO](https://dopefolio.netlify.app/#projects)
-- [Dopefolio (Source Code)](https://github.com/rammcodes/Dopefolio)
-- [Resumake - Visually Design Your Resume](https://resumake.io/)
+- [Dopefolio](https://dopefolio.netlify.app/#projects) - DEMO
+- [Dopefolio](https://github.com/rammcodes/Dopefolio) - Source Code
+- [Resumake](https://resumake.io/) - Visually Design Your Resume
 - [Resume Genius](https://resumegenius.com/)
 
 ## Web Development
 ### HTML
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
-- [HTML Reference - Free Guide To HTML](https://htmlreference.io/)
-- [Jekyll Ruby - Transform Plain Text To Static Sites](https://jekyllrb.com/)
+- [HTML Reference](https://htmlreference.io/) - Free Guide To HTML
+- [Jekyll Ruby](https://jekyllrb.com/) - Transform Plain Text To Static Sites
 - [FrontMatter Guide](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/)
 - [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
 - [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
@@ -78,10 +78,10 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 ### Markdown
 - [The Best Markdown Guide](http://markdownguide.offshoot.io)
 - [Generate Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
-- [StackEdit (Markdown Editor #1)](https://stackedit.io/app#)
-- [Dilinger.Io (Markdown Editor #2)](https://dillinger.io)
+- [StackEdit)](https://stackedit.io/app#) - Markdown Editor #1
+- [Dilinger.Io](https://dillinger.io) - Markdown Editor #2
 - [Convert A Wordpress Site To Markdown](https://kevquirk.com/how-to-convert-wordpress-to-markdown)
-- [Epoch Converter - Everything Time-Related](https://www.epochconverter.com/)
+- [Epoch Converter](https://www.epochconverter.com/) - Timestamp Conversion Tools
 
 ### Laravel & PHP
 - [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
@@ -95,7 +95,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Mail Poet - Email For Wordpress](https://www.mailpoet.com/)
 
 ## Blogging & Writing
-- [Reedsy Blog – Amazing articles on writing](https://blog.reedsy.com/) 
+- [Reedsy Blog](https://blog.reedsy.com/)  - Amazing articles on writing
 - [50 Ideas For Blog Posts](https://louplummer.lol/50-ideas-for-blog-posts/)
 - [50 More Ideas For Blog Posts](https://louplummer.lol/50-more-blogging-prompts)
 
@@ -103,21 +103,21 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Small SEO Tools](https://smallseotools.com/)
 - [The 2022 SEO Cheat Sheet](https://granwehr.com/blog/seo-cheat-sheet)
 - [What Is A Good TF? DR? DA?](https://sagapixel.com/seo/what-is-a-good-tf-dr-da/)
-- [Ahrefs - Best Free Keyword Research Tools](https://ahrefs.com/blog/free-keyword-research-tools/)
-- [Ahrefs - Free SEO Tools](https://ahrefs.com/blog/free-seo-tools/)
+- [Ahrefs](https://ahrefs.com/blog/free-keyword-research-tools/) - Best Free Keyword Research Tools
+- [Ahrefs](https://ahrefs.com/blog/free-seo-tools/) - Free SEO Tools
 
 ## Software
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/)
-- [VeraCrypt – Open source disk encryption software](https://www.veracrypt.fr/en/Home.html)
+- [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Open source disk encryption software
 
 ## Automation
-- [Zapier - Orchestration Platform](https://zapier.com/)
-- [n8n - Flexible AI Workflow Automation](https://n8n.io/)
+- [Zapier](https://zapier.com/) - Automate AI Workflows
+- [n8n](https://n8n.io/) - Flexible AI Workflow Automation
 
 ## Music Programming
 ### Chuck Documentation
 - [List Of Audio Programming Languages](https://en.m.wikipedia.org/wiki/List_of_audio_programming_languages)
-- [Chuck - Music Programming](https://chuck.stanford.edu/)
+- [Chuck](https://chuck.stanford.edu/) - Music Programming Language
 - [WebChuck (IDE)](https://chuck.cs.princeton.edu/ide/)
 - [Deep Stuff Examples](https://chuck.stanford.edu/doc/examples/#deep)
 - [Chunity Documentation](https://chuck.stanford.edu/chunity/documentation/)
@@ -139,23 +139,23 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [How You Should Feel in the Key of C Sharp Major / D flat major](https://interlude.hk/feel-key-c-sharp-major-d-flat-major/)
 - [How You Should Feel in the Key of G Minor](https://interlude.hk/feel-key-g-minor/)
 - [Music Theory Tools](https://www.musictheory.net/tools)
-- [ThinkSpace - Learn Music Theory (Course)](https://thinkspace.ac.uk/courses/learn-music-theory/)
+- [ThinkSpace (Guy Mitchelmore)](https://thinkspace.ac.uk/courses/learn-music-theory/) - Learn Music Theory (Paid Course, excellent!)
 
 ## Javascript Libraries
-- [Vue.js - Progressive Javascript Framework](https://vuejs.org/)
-- [PrimeVue - UI Suite (For Vue.js)](https://primevue.org/)
-- [Anime.js - Fast Javascript Animations](https://animejs.com/)
-- [Chart.js - JavaScript charting library](https://www.chartjs.org/)
-- [Chart.js - Radar](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html)
-- [Apex Charts - Modern Open-Source Charts](https://apexcharts.com/javascript-chart-demos/column-charts/column-with-data-labels/)
-- [Air Datepicker - Lightweight, customizable datepicker written in pure JavaScript](https://air-datepicker.com/)
-- [Wavesurfer - Open-Source Audio Visualization Library](https://wavesurfer.xyz/)
-- [LemonadeJS - Lightweight JS Library](https://lemonadejs.com/)
-- [LemonadeJS - Timeline](https://lemonadejs.com/docs/plugins/timeline)
+- [Vue.js](https://vuejs.org/) - Progressive Javascript Framework
+- [PrimeVue](https://primevue.org/) - UI Suite For Vue.js
+- [Anime.js](https://animejs.com/) - Fast Javascript Animations
+- [Chart.js](https://www.chartjs.org/) - JavaScript charting library
+- [Chart.js](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html) - Radar Chart
+- [Apex Charts](https://apexcharts.com/javascript-chart-demos/column-charts/column-with-data-labels/) - Modern Open-Source Charts
+- [Air Datepicker](https://air-datepicker.com/) - Lightweight, customizable datepicker written in pure JavaScript
+- [Wavesurfer](https://wavesurfer.xyz/) - Open-Source Audio Visualization Library
+- [LemonadeJS](https://lemonadejs.com/) - Lightweight JS Library
+- [LemonadeJS](https://lemonadejs.com/docs/plugins/timeline) - Timeline Plugin
 - [Responsive Vertical Timeline (CodyHouse)](https://codyhouse.co/demo/vertical-timeline/index.html)
-- [Vanta.js - Animated Website Backgrounds](https://www.vantajs.com/?effect=waves)
-- [Faker - Generate Fake Data For Testing & Development](https://fakerjs.dev/)
-- [Electron JS - Build Cross-Platform Desktop Apps](https://www.electronjs.org/)
+- [Vanta.js](https://www.vantajs.com/?effect=waves) - Animated Website Backgrounds
+- [Faker](https://fakerjs.dev/) - Generate Fake Data For Testing & Development
+- [Electron JS](https://www.electronjs.org/) - Build Cross-Platform Desktop Apps
 - [GraphQL](https://graphql.org/)
 
 ## Three.js
