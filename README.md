@@ -38,7 +38,6 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 	- [Voiceovers](#voiceovers)
 	- [Music Production](#music-production)
 
-
 ## Free Media
 - [Free Media Hack Yeah - The largest collection of free stuff on the internet](https://fmhy.net/)
 - [Pixabay - Free Images](https://pixabay.com/)
@@ -174,21 +173,21 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ## Path Of Exile
 ### Guides, Tutorials
-- [MaxRoll.gg - Path Of Exile Build Guides ](https://maxroll.gg/poe)
-- [POE Vault - Ghazzy's Build Guides For Path Of Exile](https://www.poe-vault.com/guides/builds-for-path-of-exile)
+- [MaxRoll.gg](https://maxroll.gg/poe) - Path Of Exile Build Guides
+- [POE Vault](https://www.poe-vault.com/guides/builds-for-path-of-exile) - Ghazzy TV's Build Guides For Path Of Exile
 - [POE Vault Leveling Guide](https://www.poe-vault.com/guides/quick-reference-leveling-guide-act-1)
 - [Trial Of Ascendancy Locations](https://www.poewiki.net/wiki/Trial_of_Ascendancy)
 - [Delve Guide To Fractured Walls](https://www.pathofexile.com/forum/view-thread/2204851/page/4)
 
 ### Tools
-- [Path Of Building - Community Edition](https://pathofbuilding.community/)
-- [FilterBlade (Item Filter)](https://www.filterblade.xyz/)
-- [Awakened Poe Trade](https://github.com/SnosMe/awakened-poe-trade/)
-- [Official Poe Trade](https://www.pathofexile.com/trade)
-- [X-Mouse](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm)
-- [PoeNinja](https://poe.ninja/builds/mercenaries)
-- [Craft Of Exile](https://www.craftofexile.com/)
-- [Path Of Exile Regex](https://poe.re/)
+- [Path Of Building](https://pathofbuilding.community/) - Community Edition fork of Path of Building
+- [FilterBlade](https://www.filterblade.xyz/) - Popular Item Filter
+- [Awakened Poe Trade](https://github.com/SnosMe/awakened-poe-trade/) - Price check
+- [POE Trade](https://www.pathofexile.com/trade) - The official Path Of Exile trade site
+- [X-Mouse](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm) - Remap your mouse buttons
+- [PoeNinja](https://poe.ninja/builds/mercenaries) - Other people's builds
+- [Craft Of Exile](https://www.craftofexile.com/) - Item crafting simulator
+- [Path Of Exile Regex](https://poe.re/) - Prepare your regular expressions
 - [PoeDb](https://poedb.tw/us/)
 - [Chromatic Calculator](https://siveran.github.io/calc.html) 
 
@@ -196,13 +195,13 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Color Tests (Romanian)](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
 
 ## Audio Processing
-- [Cleanup Your Audio](https://podcast.adobe.com/en/enhance)
+- [Enhance Speech v2](https://podcast.adobe.com/en/enhance) - Cleanup Your Audio
 - [2nd Opinion](https://stevenjaycohen.com/2015/10/08/get-a-2nd-opinion-before-sending-off-that-audiobook/) – Before sending that audiobook
 - [PaulXStretch](https://sonosaurus.com/paulxstretch/#:~:text=PaulXStretch%20is%20designed%20for%20radical,amazingly%20smooth%20and%20beautiful%20way) – Sound transformation
 
 ## Voiceover
-- [Script Reading Duration](https://voce.md/en/cronometer)
-- [Quillbot Paraphrasing](https://quillbot.com)
+- [Cronometer](https://voce.md/en/cronometer) - Script reading duration estimate
+- [Quillbot](https://quillbot.com) - Paraphrasing
 
 ## Romanian Voiceover
 - [Exercitii De Dictie Zile Libere](https://www.dictie.ro/exercitii-dictie-zilele-libere/)
@@ -212,9 +211,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Exercitii De Dictie Celebre](https://www.dictie.ro/25-de-exercitii-de-dictie-celebre/)
 
 ## Romanian Speaking Only
-- [StartCo - Pornește-ți Afacerea](https://cloud.startco.ro/dashboard)
+- [StartCo](https://cloud.startco.ro/dashboard) - Pornește-ți Afacerea
 - [Generator Declarație Unică](https://startco.ro/declaratia-unica)
-- [Insuretech - Gestiunea Afacerii](https://insuretech.ro/)
+- [Insuretech](https://insuretech.ro/) - Gestiunea Afacerii
 
 ## Fedora
 - [How To Change Fedora Splash Screen](https://www.makeuseof.com/how-to-change-fedora-splash-screen/)
