@@ -33,11 +33,10 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [[#Romanian Speaking Only|Romanian Speaking Only]]
 - [[#Fedora|Fedora]]
 - [[#Domestika.org Courses|Domestika.org Courses]]
-		- [[#Tools#HTML & Web|HTML & Web]]
-		- [[#Tools#DJ & Mixing|DJ & Mixing]]
-		- [[#Tools#Voiceovers|Voiceovers]]
-		- [[#Tools#Music Production|Music Production]]
-
+	- [[#Tools#HTML & Web|HTML & Web]]
+	- [[#Tools#DJ & Mixing|DJ & Mixing]]
+	- [[#Tools#Voiceovers|Voiceovers]]
+	- [[#Tools#Music Production|Music Production]]
 
 ## Free Media
 - [Free Media Hack Yeah - The largest collection of free stuff on the internet](https://fmhy.net/)
