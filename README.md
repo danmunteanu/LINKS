@@ -122,17 +122,17 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Mail Poet](https://www.mailpoet.com/) - Email For Wordpress
 
 ## Blogging & Writing
-- [50 Ideas For Blog Posts](https://louplummer.lol/50-ideas-for-blog-posts/)
-- [50 More Ideas For Blog Posts](https://louplummer.lol/50-more-blogging-prompts)
 - [Reedsy Blog](https://blog.reedsy.com/)  - Amazing articles on writing
 - [Quillbot](https://quillbot.com) - AI Writer, Paraphrasing
+- [50 Ideas For Blog Posts](https://louplummer.lol/50-ideas-for-blog-posts/)
+- [50 More Ideas For Blog Posts](https://louplummer.lol/50-more-blogging-prompts)
 
 ## SEO
 - [Small SEO Tools](https://smallseotools.com/)
 - [The 2022 SEO Cheat Sheet](https://granwehr.com/blog/seo-cheat-sheet)
 - [What Is A Good TF? DR? DA?](https://sagapixel.com/seo/what-is-a-good-tf-dr-da/)
 - [Ahrefs](https://ahrefs.com/blog/free-keyword-research-tools/) - Best Free Keyword Research Tools
-- [Ahrefs SEO Tools](https://ahrefs.com/blog/free-seo-tools/) - SEO Tools
+- [Ahrefs SEO Tools](https://ahrefs.com/blog/free-seo-tools/) - Free SEO Tools Collection From Ahrefs
 
 ## Software
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - Tweak hidden Windows settings
@@ -159,7 +159,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [40 - Making A Video Game Soundtrack](https://www.youtube.com/watch?v=JlikA_zDbnc)
 
 ## Music
-- [Equus Caballus](https://menitrust.bandcamp.com/album/equus-caballus) - Music Album From Men I Trust
+- [Equus Caballus](https://menitrust.bandcamp.com/album/equus-caballus) - Music Album From *Men I Trust*
 - [No Rest For The Wicked (Original Early Access Soundtrack)](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu?flow_ctx=d3365456-b736-45ee-95f2-5b26df744c42%3A1752679796)
 
 ## Music Theory
