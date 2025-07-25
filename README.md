@@ -41,6 +41,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ### Automation
 - [n8n - Flexible AI Workflow Automation](https://n8n.io/)
+- [Zapier - Orchestration Platform](https://zapier.com/)
 
 ### Wordpress
 - [Install Wordpress On Ubuntu Using Docker](https://www.hostinger.com/tutorials/run-docker-wordpress)
