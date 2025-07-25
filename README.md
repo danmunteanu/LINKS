@@ -17,6 +17,13 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Zed - Intelligent Code Editor (Linux and Mac)](https://zed.dev/)
 - [Obsidian](https://obsidian.md/)
 
+## Resume Builders / Templates
+- [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/#about)
+- [Dopefolio DEMO](https://dopefolio.netlify.app/#projects)
+- [Dopefolio (Source Code)](https://github.com/rammcodes/Dopefolio)
+- [Resumake - Visually Design Your Resume](https://resumake.io/)
+- [Resume Genius](https://resumegenius.com/)
+
 ## Web Development
 ### HTML
 - [Markdown Guide](https://markdownguide.offshoot.io/getting-started/)
@@ -27,17 +34,13 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
 - [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
 
-### Resume
-- [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/#about)
-- [Dopefolio DEMO](https://dopefolio.netlify.app/#projects)
-- [Dopefolio (Source Code)](https://github.com/rammcodes/Dopefolio)
-- [Resumake - Visually Design Your Resume](https://resumake.io/)
-- [Resume Genius](https://resumegenius.com/)
-
 ### Laravel & PHP
 - [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
 - [Laravel Unique Validation For Multiple Columns](https://laraveldaily.com/post/laravel-unique-validation-multiple-columns)
 - [A Detailed Guide To PHP Debugging](https://stackify.com/php-debugging-guide/)
+
+### Automation
+- [n8n - Flexible AI Workflow Automation](https://n8n.io/)
 
 ### Wordpress
 - [Install Wordpress On Ubuntu Using Docker](https://www.hostinger.com/tutorials/run-docker-wordpress)
@@ -117,6 +120,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [POE Vault Leveling Guide](https://www.poe-vault.com/guides/quick-reference-leveling-guide-act-1)
 - [Trial Of Ascendancy Locations](https://www.poewiki.net/wiki/Trial_of_Ascendancy)
 - [Delve Guide To Fractured Walls](https://www.pathofexile.com/forum/view-thread/2204851/page/4)
+
 ### Tools
 - [Path Of Building - Community Edition](https://pathofbuilding.community/)
 - [Awakened Poe Trade](https://github.com/SnosMe/awakened-poe-trade/)
@@ -129,13 +133,11 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [PoeDb](https://poedb.tw/us/)
 - [Chromatic Calculator](https://siveran.github.io/calc.html) 
 
-## In Romania Only
-- [StartCo - Pornește-ți Afacerea](https://cloud.startco.ro/dashboard)
-- [Generator Declarație Unică](https://startco.ro/declaratia-unica)
-- [Insuretech - Gestiunea Afacerii](https://insuretech.ro/)
-
 ## Health
 - [Color Tests (Romanian)](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
+
+## Audio Processing
+- [Cleanup Your Audio](https://podcast.adobe.com/en/enhance)
 
 ## Romanian Voiceover
 - [Exercitii De Dictie Zile Libere](https://www.dictie.ro/exercitii-dictie-zilele-libere/)
@@ -143,6 +145,11 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Exercitii De Dictie Provocari](https://www.dictie.ro/noi-provocari-exercitii-dictie/)
 - [Antrenament Exercitii De Dictie](https://www.dictie.ro/antrenament-exercitii-de-dictie/)
 - [Exercitii De Dictie Celebre](https://www.dictie.ro/25-de-exercitii-de-dictie-celebre/)
+
+## Romanian Speaking Only
+- [StartCo - Pornește-ți Afacerea](https://cloud.startco.ro/dashboard)
+- [Generator Declarație Unică](https://startco.ro/declaratia-unica)
+- [Insuretech - Gestiunea Afacerii](https://insuretech.ro/)
 
 ## Domestika.org Courses
 #### HTML & Web
