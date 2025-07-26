@@ -18,11 +18,10 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Software](#software)
 - [Automation](#automation)
 - [Music Programming](#music-programming)
-	- [Chuck Documentation](#chuck-documentation)
+	- [Chuck - Music Programming Language](#chuck---music-programming-language)
 	- [Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*](#creating-electronic-music-with-chuck---tutorial-series-by-clint-hoagland)
-- [Music](#music)
 - [Music Theory](#music-theory)
-- [Nice Sites](#nice-sites)
+- [Music](#music)
 - [Path Of Exile](#path-of-exile)
 	- [Guides, Tutorials](#guides-tutorials)
 	- [Tools](#tools)
@@ -42,10 +41,11 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Free Media Hack Yeah](https://fmhy.net/)  - The largest collection of free stuff on the internet
 - [Pixabay](https://pixabay.com/) - Free high-quality images
 - [Remove Photo Background](https://www.remove.bg/upload)
-- [Convert PNG To Icons](https://convertico.com/)
 - [Time And Date](https://www.timeanddate.com/calendar/create.html) - Printable Calendars
+- [Convert PNG To Icons](https://convertico.com/)
 - [Homemade Gifts](https://www.homemade-gifts-made-easy.com/index.html) - High Quality Free Calendar Templates
 - [Live Webcam JR](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) - Live Webcam from Sapporo Station, Hokkaido, Japan
+- [Time Conversion Utilities](https://www.epochconverter.com/)
 
 ## Software Development
 - [Design Patterns From Refactoring Guru](https://refactoring.guru/design-patterns) - Amazing book on design patterns
@@ -82,8 +82,6 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Generate Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
 - [StackEdit](https://stackedit.io/app#) - Markdown Editor #1
 - [Dilinger.Io](https://dillinger.io) - Markdown Editor #2
-- [Convert A Wordpress Site To Markdown](https://kevquirk.com/how-to-convert-wordpress-to-markdown)
-- [Epoch Converter](https://www.epochconverter.com/) - Timestamp Conversion Tools
 
 ### Laravel & PHP
 - [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
@@ -118,6 +116,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 ### Wordpress
 - [Install Wordpress On Ubuntu Using Docker](https://www.hostinger.com/tutorials/run-docker-wordpress)
 - [How To Protect Your *wp-content* Folder (Wordpress)](https://hostadvice.com/how-to/website-builders/wordpress/how-to-protect-the-wp-content-folder-of-your-wordpress-website/)
+- [Convert A Wordpress Site To Markdown](https://kevquirk.com/how-to-convert-wordpress-to-markdown)
 - [Best Wordpress Page Builders](https://www.hostinger.com/tutorials/wordpress-page-builders)
 - [Mail Poet](https://www.mailpoet.com/) - Email For Wordpress
 
@@ -139,13 +138,13 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Open source disk encryption software
 
 ## Automation
-- [Zapier](https://zapier.com/) - Automate AI Workflows
 - [n8n](https://n8n.io/) - Flexible AI Workflow Automation
+- [Zapier](https://zapier.com/) - Automate AI Workflows
 
 ## Music Programming
-### Chuck Documentation
+### Chuck - Music Programming Language
 - [List Of Audio Programming Languages](https://en.m.wikipedia.org/wiki/List_of_audio_programming_languages)
-- [Chuck](https://chuck.stanford.edu/) - Music Programming Language
+- [Chuck](https://chuck.stanford.edu/) - Official Chuck Documentation
 - [WebChuck IDE](https://chuck.cs.princeton.edu/ide/)
 - [Deep Stuff Examples](https://chuck.stanford.edu/doc/examples/#deep)
 - [Chunity Documentation](https://chuck.stanford.edu/chunity/documentation/)
@@ -158,10 +157,6 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [20 - Classes](https://www.youtube.com/watch?v=1E9IeA4rueA)
 - [40 - Making A Video Game Soundtrack](https://www.youtube.com/watch?v=JlikA_zDbnc)
 
-## Music
-- [Equus Caballus](https://menitrust.bandcamp.com/album/equus-caballus) - Music Album From *Men I Trust*
-- [No Rest For The Wicked (Original Early Access Soundtrack)](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu?flow_ctx=d3365456-b736-45ee-95f2-5b26df744c42%3A1752679796)
-
 ## Music Theory
 - [Affective Musical Key Characteristics](https://legacy.wmich.edu/mus-theo/courses/keys.html) 
 - [How You Should Feel in the Key of C Sharp Major / D flat major](https://interlude.hk/feel-key-c-sharp-major-d-flat-major/)
@@ -169,6 +164,10 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [ThinkSpace - Learn Music Theory](https://thinkspace.ac.uk/courses/learn-music-theory/) - Amazing Music Theory Course by Guy Mitchelmore (Paid)
 - [Music Theory Tools](https://www.musictheory.net/tools)
 - [Gammes](https://gammes.gridsound.com/) - Nice music theory site
+
+## Music
+- [Equus Caballus](https://menitrust.bandcamp.com/album/equus-caballus) - Music Album From *Men I Trust*
+- [No Rest For The Wicked (Original Early Access Soundtrack)](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu?flow_ctx=d3365456-b736-45ee-95f2-5b26df744c42%3A1752679796)
 
 ## Path Of Exile
 ### Guides, Tutorials
