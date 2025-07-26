@@ -122,9 +122,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ## Blogging & Writing
 - [Reedsy Blog](https://blog.reedsy.com/)  - Amazing articles on writing
-- [Quillbot](https://quillbot.com) - AI Writer, Paraphrasing
 - [50 Ideas For Blog Posts](https://louplummer.lol/50-ideas-for-blog-posts/)
 - [50 More Ideas For Blog Posts](https://louplummer.lol/50-more-blogging-prompts)
+- [Quillbot](https://quillbot.com) - AI Writer, Paraphrasing
 
 ## SEO
 - [Small SEO Tools](https://smallseotools.com/)
@@ -162,7 +162,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [How You Should Feel in the Key of C Sharp Major / D flat major](https://interlude.hk/feel-key-c-sharp-major-d-flat-major/)
 - [How You Should Feel in the Key of G Minor](https://interlude.hk/feel-key-g-minor/)
 - [ThinkSpace - Learn Music Theory](https://thinkspace.ac.uk/courses/learn-music-theory/) - Amazing Music Theory Course by Guy Mitchelmore (Paid)
-- [Music Theory Tools](https://www.musictheory.net/tools) - Like accidental calculator, interval calculator, chord calculator, etc...
+- [Music Theory Tools](https://www.musictheory.net/tools) - Chord calculator, accidental calculator, interval calculator, etc...
 - [Gammes](https://gammes.gridsound.com/) - Nice music theory site
 
 ## Music
