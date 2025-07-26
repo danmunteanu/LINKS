@@ -2,7 +2,7 @@
 Most of the resources mentioned here are free to use. Some of them are paid (e.g. the Domestika.org courses). I'll keep adding links to this collection as time passes by.
 
 ## Index
-- [Free Media](#free-media)
+- [Free Media, Utilities](#free-media-utilities)
 - [Software Development](#software-development)
 - [Editors](#editors)
 - [Resume Builders / Templates](#resume-builders--templates)
@@ -37,15 +37,15 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 	- [Voiceovers](#voiceovers)
 	- [Music Production](#music-production)
 
-## Free Media
+## Free Media, Utilities
 - [Free Media Hack Yeah](https://fmhy.net/)  - The largest collection of free stuff on the internet
 - [Pixabay](https://pixabay.com/) - Free high-quality images
 - [Remove Photo Background](https://www.remove.bg/upload)
 - [Time And Date](https://www.timeanddate.com/calendar/create.html) - Printable Calendars
 - [Convert PNG To Icons](https://convertico.com/)
 - [Homemade Gifts](https://www.homemade-gifts-made-easy.com/index.html) - High Quality Free Calendar Templates
-- [Live Webcam JR](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) - Live Webcam from Sapporo Station, Hokkaido, Japan
 - [Time Conversion Utilities](https://www.epochconverter.com/)
+- [Live Webcam JR](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) - Live Webcam from Sapporo Station, Hokkaido, Japan
 
 ## Software Development
 - [Design Patterns From Refactoring Guru](https://refactoring.guru/design-patterns) - Amazing book on design patterns
@@ -162,7 +162,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [How You Should Feel in the Key of C Sharp Major / D flat major](https://interlude.hk/feel-key-c-sharp-major-d-flat-major/)
 - [How You Should Feel in the Key of G Minor](https://interlude.hk/feel-key-g-minor/)
 - [ThinkSpace - Learn Music Theory](https://thinkspace.ac.uk/courses/learn-music-theory/) - Amazing Music Theory Course by Guy Mitchelmore (Paid)
-- [Music Theory Tools](https://www.musictheory.net/tools)
+- [Music Theory Tools](https://www.musictheory.net/tools) - Like accidental calculator, interval calculator, chord calculator, etc...
 - [Gammes](https://gammes.gridsound.com/) - Nice music theory site
 
 ## Music
