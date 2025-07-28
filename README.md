@@ -104,6 +104,8 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Faker](https://fakerjs.dev/) - Generate Fake Data For Testing & Development
 - [Electron JS](https://www.electronjs.org/) - Build Cross-Platform Desktop Apps
 - [GraphQL](https://graphql.org/) - Query language for APIs
+- [Filepond](https://pqina.nl/filepond/?ref=pqina) - Upload any file, optimize images
+
 - [MD Timepicker](https://dmuy.github.io/MDTimePicker/) - Android-like round clock time picker
 
 ### Three.js - 3D Graphics Javascript Library
@@ -209,13 +211,10 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Antrenament Exercitii De Dictie](https://www.dictie.ro/antrenament-exercitii-de-dictie/)
 - [Exercitii De Dictie Celebre](https://www.dictie.ro/25-de-exercitii-de-dictie-celebre/)
 
-## Romanian Speaking Only
+## For Romanian Speakers Only
 - [StartCo](https://cloud.startco.ro/dashboard) - Pornește-ți Afacerea
 - [Generator Declarație Unică](https://startco.ro/declaratia-unica)
-- [Insuretech](https://insuretech.ro/) - Gestiunea Afacerii
-
-## Fedora
-- [How To Change Fedora Splash Screen](https://www.makeuseof.com/how-to-change-fedora-splash-screen/)
+- [Insuretech](https://insuretech.ro/) - Gestiuneaza-ți Afacerea
 
 ## Courses (Domestika.org)
 #### HTML & Web
@@ -232,3 +231,5 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Introduction To Music Production](https://www.domestika.org/en/courses/2419-introduction-to-music-production)
 - [Music Theory And Scoring For Film](https://www.domestika.org/en/courses/4584-music-theory-and-scoring-for-film)
 
+## Fedora
+- [How To Change Fedora Splash Screen](https://www.makeuseof.com/how-to-change-fedora-splash-screen/)
