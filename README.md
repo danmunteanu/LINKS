@@ -106,7 +106,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Electron JS](https://www.electronjs.org/) - Build Cross-Platform Desktop Apps
 - [GraphQL](https://graphql.org/) - Query language for APIs
 - [Filepond](https://pqina.nl/filepond/?ref=pqina) - Upload any file, optimize images
-
+- [Howler.js](https://howlerjs.com/) - Audio library for the modern Web
 - [MD Timepicker](https://dmuy.github.io/MDTimePicker/) - Android-like round clock time picker
 
 ### Three.js - 3D Graphics Javascript Library
