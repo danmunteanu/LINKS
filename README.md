@@ -91,6 +91,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 ### Javascript Libraries
 - [Vue.js](https://vuejs.org/) - Progressive Javascript Framework
 - [PrimeVue](https://primevue.org/) - UI Suite For Vue.js
+- [Element+](https://element-plus.org/en-US/) - Vue 3 based component library
 - [Anime.js](https://animejs.com/) - Fast Javascript Animations
 - [Chart.js](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html) - Radar Chart
 - [Chart.js](https://www.chartjs.org/) - JavaScript charting library
@@ -103,6 +104,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Faker](https://fakerjs.dev/) - Generate Fake Data For Testing & Development
 - [Electron JS](https://www.electronjs.org/) - Build Cross-Platform Desktop Apps
 - [GraphQL](https://graphql.org/) - Query language for APIs
+- [MD Timepicker](https://dmuy.github.io/MDTimePicker/) - Android-like round clock time picker
 
 ### Three.js - 3D Graphics Javascript Library
 - [Voxels](https://threejs.org/examples/#webgl_interactive_voxelpainter)
