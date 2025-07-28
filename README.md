@@ -29,13 +29,13 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Audio Processing](#audio-processing)
 - [Voiceover](#voiceover)
 - [Romanian Voiceover](#romanian-voiceover)
-- [Romanian Speaking Only](#romanian-speaking-only)
-- [Fedora](#fedora)
-- [Courses (Domestika.org)](#courses-domestikaorg)
+- [For Romanian Speakers Only](#for-romanian-speakers-only)
+- [Courses on Domestika.org](#courses-on-domestikaorg)
 	- [HTML & Web](#html--web)
 	- [DJ & Mixing](#dj--mixing)
 	- [Voiceovers](#voiceovers)
 	- [Music Production](#music-production)
+- [Fedora](#fedora)
 
 ## Free Media, Utilities
 - [Free Media Hack Yeah](https://fmhy.net/)  - The largest collection of free stuff on the internet
@@ -216,7 +216,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Generator Declarație Unică](https://startco.ro/declaratia-unica)
 - [Insuretech](https://insuretech.ro/) - Gestiuneaza-ți Afacerea
 
-## Courses (Domestika.org)
+## Courses on Domestika.org
 #### HTML & Web
 - [Introduction to Responsive Web Development with HTML and CSS](https://www.domestika.org/en/courses/74-introduction-to-responsive-web-development-with-html-and-css)
 - [Web Layout with CSS Grid, Flexbox and other Modern Techniques](https://www.domestika.org/en/courses/389-web-layout-with-css-grid-flexbox-and-other-modern-techniques)
