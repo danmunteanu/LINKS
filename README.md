@@ -67,7 +67,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Resume Genius](https://resumegenius.com/)
 
 ## Web Development
-### HTML
+### HTML & Web
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
 - [HTML Reference](https://htmlreference.io/) - Free Guide To HTML
 - [Jekyll Ruby](https://jekyllrb.com/) - Plain Text To Static Sites
@@ -76,6 +76,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
 - [Responsive Vertical Timeline](https://codyhouse.co/demo/vertical-timeline/index.html) - Timeline Demo from CodyHouse
 - [CodyHouse](https://codyhouse.co/) - Web Design Templates
+- [Debug Bear](https://www.debugbear.com/blog) - How The Web Works?
 
 ### Markdown
 - [The Best Markdown Guide](http://markdownguide.offshoot.io)
@@ -105,6 +106,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Electron JS](https://www.electronjs.org/) - Build Cross-Platform Desktop Apps
 - [GraphQL](https://graphql.org/) - Query language for APIs
 - [Filepond](https://pqina.nl/filepond/?ref=pqina) - Upload any file, optimize images
+
 - [MD Timepicker](https://dmuy.github.io/MDTimePicker/) - Android-like round clock time picker
 
 ### Three.js - 3D Graphics Javascript Library
