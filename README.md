@@ -59,6 +59,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Sublime Text](https://www.sublimetext.com/)
 - [Obsidian](https://obsidian.md/)
 - [Zed - Intelligent Code Editor (Linux and Mac)](https://zed.dev/)
+- [Atom](https://atom-editor.cc/) - A hackable text editor *(discontinued*)
 
 ## Resume Builders / Templates
 - [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/#about)
