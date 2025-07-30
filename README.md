@@ -39,6 +39,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ## Free Media, Utilities
 - [Free Media Hack Yeah](https://fmhy.net/)  - The largest collection of free stuff on the internet
+- [QuickStuff.app](https://quickstuff.app/) - Handy tools to make life easier
 - [Pixabay](https://pixabay.com/) - Free high-quality images
 - [Remove Photo Background](https://www.remove.bg/upload)
 - [Time And Date](https://www.timeanddate.com/calendar/create.html) - Printable Calendars
