@@ -46,6 +46,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Convert PNG To Icons](https://convertico.com/)
 - [Homemade Gifts](https://www.homemade-gifts-made-easy.com/index.html) - High Quality Free Calendar Templates
 - [Time Conversion Utilities](https://www.epochconverter.com/)
+- [File Converter](https://cloudconvert.com/) - Convert any files
 - [Live Webcam JR](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) - Live Webcam from Sapporo Station, Hokkaido, Japan
 
 ## Software Development
@@ -70,9 +71,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ## Freelancing Sites
 - [Fiverr](https://www.fiverr.com/) - Gig Economy
-- [Upwork](https://www.upwork.com/) - 
+- [Upwork](https://www.upwork.com/) - Connecting clients *something, something*
 - [Freelancer](https://www.freelancer.com/) - Large freelancer marketplace
-
+- [PeoplePerHour](https://www.peopleperhour.com/) - Hire great freelancers
 
 ## Web Development
 ### HTML & Web
