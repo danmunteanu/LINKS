@@ -6,8 +6,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Software Development](#software-development)
 - [Editors](#editors)
 - [Resume Builders / Templates](#resume-builders--templates)
+- [Freelancing Sites](#freelancing-sites)
 - [Web Development](#web-development)
-	- [HTML](#html)
+	- [HTML & Web](#html--web)
 	- [Markdown](#markdown)
 	- [Laravel & PHP](#laravel--php)
 	- [Javascript Libraries](#javascript-libraries)
@@ -38,15 +39,15 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Fedora](#fedora)
 
 ## Free Media, Utilities
+- [Pixabay](https://pixabay.com/) - Free high-quality images
 - [Free Media Hack Yeah](https://fmhy.net/)  - The largest collection of free stuff on the internet
 - [QuickStuff.app](https://quickstuff.app/) - Handy tools to make life easier
-- [Pixabay](https://pixabay.com/) - Free high-quality images
 - [Remove Photo Background](https://www.remove.bg/upload)
-- [Time And Date](https://www.timeanddate.com/calendar/create.html) - Printable Calendars
 - [Convert PNG To Icons](https://convertico.com/)
-- [Homemade Gifts](https://www.homemade-gifts-made-easy.com/index.html) - High Quality Free Calendar Templates
-- [Time Conversion Utilities](https://www.epochconverter.com/)
 - [File Converter](https://cloudconvert.com/) - Convert any files
+- [Time Conversion Utilities](https://www.epochconverter.com/)
+- [Time And Date](https://www.timeanddate.com/calendar/create.html) - Printable Calendars
+- [Homemade Gifts](https://www.homemade-gifts-made-easy.com/index.html) - High Quality Free Calendar Templates
 - [Live Webcam JR](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) - Live Webcam from Sapporo Station, Hokkaido, Japan
 
 ## Software Development
