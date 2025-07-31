@@ -68,6 +68,12 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Resumake](https://resumake.io/) - Visually Design Your Resume
 - [Resume Genius](https://resumegenius.com/)
 
+## Freelancing Sites
+- [Fiverr](https://www.fiverr.com/) - Gig Economy
+- [Upwork](https://www.upwork.com/) - 
+- [Freelancer](https://www.freelancer.com/) - Large freelancer marketplace
+
+
 ## Web Development
 ### HTML & Web
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
