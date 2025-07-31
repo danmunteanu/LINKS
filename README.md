@@ -85,6 +85,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Responsive Vertical Timeline](https://codyhouse.co/demo/vertical-timeline/index.html) - Timeline Demo from CodyHouse
 - [CodyHouse](https://codyhouse.co/) - Web Design Templates
 - [Debug Bear](https://www.debugbear.com/blog) - How The Web Works?
+- [Lucide Icons](https://lucide.dev/) - Free Icon Pack
 
 ### Markdown
 - [The Best Markdown Guide](http://markdownguide.offshoot.io)
