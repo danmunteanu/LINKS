@@ -54,6 +54,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Design Patterns From Refactoring Guru](https://refactoring.guru/design-patterns) - Amazing book on design patterns
 - [Mermaid](https://mermaid.js.org/syntax/gitgraph.html) - Create Diagrams (Gantt, Pie, Class, GitGraph)
 - [Golas](https://golas.blog/) - Programming Blog
+- [Godot](https://godotengine.org/features/) - Build your game from simple blocks
 
 ## Editors
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -76,6 +77,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Freelancer](https://www.freelancer.com/) - Large freelancer marketplace
 - [PeoplePerHour](https://www.peopleperhour.com/) - Hire great freelancers
 
+## Job Search
+- [Simply Hired](https://www.simplyhired.com/) - Get hired!
+
 ## Web Development
 ### HTML & Web
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
@@ -88,6 +92,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [CodyHouse](https://codyhouse.co/) - Web Design Templates
 - [Debug Bear](https://www.debugbear.com/blog) - How The Web Works?
 - [Lucide Icons](https://lucide.dev/) - Free Icon Pack
+- [Easing Functions](https://easings.net/#) - Choose the right easing function
 
 ### Markdown
 - [The Best Markdown Guide](http://markdownguide.offshoot.io)
@@ -152,6 +157,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 ## Software
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - Tweak hidden Windows settings
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Open source disk encryption software
+- [WinUtils](https://github.com/christitustech/winutil) - Chris Titus Tech's Windows Utility
 
 ## Automation
 - [n8n](https://n8n.io/) - Flexible AI Workflow Automation
