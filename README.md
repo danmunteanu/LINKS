@@ -38,7 +38,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 	- [Music Production](#music-production)
 - [Fedora](#fedora)
 
-## Free Media, Utilities
+## Free Media, Utilities, Interesting
 - [Pixabay](https://pixabay.com/) - Free high-quality images
 - [Free Media Hack Yeah](https://fmhy.net/)  - The largest collection of free stuff on the internet
 - [QuickStuff.app](https://quickstuff.app/) - Handy tools to make life easier
@@ -77,7 +77,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Freelancer](https://www.freelancer.com/) - Large freelancer marketplace
 - [PeoplePerHour](https://www.peopleperhour.com/) - Hire great freelancers
 
-## Job Search
+## Job Hunt
 - [Simply Hired](https://www.simplyhired.com/) - Get hired!
 
 ## Web Development
@@ -93,6 +93,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Debug Bear](https://www.debugbear.com/blog) - How The Web Works?
 - [Lucide Icons](https://lucide.dev/) - Free Icon Pack
 - [Easing Functions](https://easings.net/#) - Choose the right easing function
+- [ChurchCRM](https://churchcrm.io/) - Huh, they made a CRM for churches!
 
 ### Markdown
 - [The Best Markdown Guide](http://markdownguide.offshoot.io)
