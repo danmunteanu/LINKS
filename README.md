@@ -2,11 +2,12 @@
 Most of the resources mentioned here are free to use. Some of them are paid (e.g. the Domestika.org courses). I'll keep adding links to this collection as time passes by.
 
 ## Index
-- [Free Media, Utilities](#free-media-utilities)
+- [Free Media, Utilities, Interesting](#free-media-utilities-interesting)
 - [Software Development](#software-development)
 - [Editors](#editors)
 - [Resume Builders / Templates](#resume-builders--templates)
 - [Freelancing Sites](#freelancing-sites)
+- [Job Hunt](#job-hunt)
 - [Web Development](#web-development)
 	- [HTML & Web](#html--web)
 	- [Markdown](#markdown)
@@ -28,7 +29,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 	- [Tools](#tools)
 - [Health](#health)
 - [Audio Processing](#audio-processing)
-- [Voiceover](#voiceover)
+- [Voiceover Resources](#voiceover-resources)
 - [Romanian Voiceover](#romanian-voiceover)
 - [For Romanian Speakers Only](#for-romanian-speakers-only)
 - [Courses on Domestika.org](#courses-on-domestikaorg)
@@ -61,8 +62,8 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Obsidian](https://obsidian.md/)
-- [Zed - Intelligent Code Editor (Linux and Mac)](https://zed.dev/)
-- [Atom](https://atom-editor.cc/) - A hackable text editor *(discontinued*)
+- [Zed](https://zed.dev/) - Intelligent Code Editor (Linux and Mac)
+- [Atom](https://atom-editor.cc/) - Hackable text editor *(discontinued*)
 
 ## Resume Builders / Templates
 - [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/#about)
@@ -79,21 +80,22 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ## Job Hunt
 - [Simply Hired](https://www.simplyhired.com/) - Get hired!
+- [Just Remote](https://justremote.co/) - Remote Jobs
 
 ## Web Development
 ### HTML & Web
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
 - [HTML Reference](https://htmlreference.io/) - Free Guide To HTML
-- [Jekyll Ruby](https://jekyllrb.com/) - Plain Text To Static Sites
+- [Jekyll Ruby](https://jekyllrb.com/) - Convert plain text to static sites
 - [FrontMatter Guide](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/)
 - [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
 - [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
 - [Responsive Vertical Timeline](https://codyhouse.co/demo/vertical-timeline/index.html) - Timeline Demo from CodyHouse
 - [CodyHouse](https://codyhouse.co/) - Web Design Templates
-- [Debug Bear](https://www.debugbear.com/blog) - How The Web Works?
-- [Lucide Icons](https://lucide.dev/) - Free Icon Pack
+- [Debug Bear](https://www.debugbear.com/blog) - How does the web work?
+- [ChurchCRM](https://churchcrm.io/) - A CRM for churches
+- [Lucide Icons](https://lucide.dev/) - Free icon library 
 - [Easing Functions](https://easings.net/#) - Choose the right easing function
-- [ChurchCRM](https://churchcrm.io/) - Huh, they made a CRM for churches!
 
 ### Markdown
 - [The Best Markdown Guide](http://markdownguide.offshoot.io)
@@ -146,12 +148,12 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Reedsy Blog](https://blog.reedsy.com/)  - Amazing articles on writing
 - [50 Ideas For Blog Posts](https://louplummer.lol/50-ideas-for-blog-posts/)
 - [50 More Ideas For Blog Posts](https://louplummer.lol/50-more-blogging-prompts)
-- [Quillbot](https://quillbot.com) - AI Writer, Paraphrasing
 
 ## SEO
 - [Small SEO Tools](https://smallseotools.com/)
 - [The 2022 SEO Cheat Sheet](https://granwehr.com/blog/seo-cheat-sheet)
 - [What Is A Good TF? DR? DA?](https://sagapixel.com/seo/what-is-a-good-tf-dr-da/)
+- [What Is Offpage SEO?](https://granwehr.com/blog/off-page-seo)
 - [Ahrefs](https://ahrefs.com/blog/free-keyword-research-tools/) - Best Free Keyword Research Tools
 - [Ahrefs SEO Tools](https://ahrefs.com/blog/free-seo-tools/) - Free SEO Tools Collection From Ahrefs
 
@@ -218,10 +220,11 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 ## Audio Processing
 - [Enhance Speech v2](https://podcast.adobe.com/en/enhance) - Cleanup Your Audio
 - [2nd Opinion](https://stevenjaycohen.com/2015/10/08/get-a-2nd-opinion-before-sending-off-that-audiobook/) – Before sending that audiobook
-- [PaulXStretch](https://sonosaurus.com/paulxstretch/#:~:text=PaulXStretch%20is%20designed%20for%20radical,amazingly%20smooth%20and%20beautiful%20way) – Sound transformation
+- [PaulXStretch](https://sonosaurus.com/paulxstretch/) – Radical transformation of sounds
 
-## Voiceover
+## Voiceover Resources
 - [Cronometer](https://voce.md/en/cronometer) - Script reading duration estimate
+- [Quillbot](https://quillbot.com) - AI Writer, Paraphrasing
 
 ## Romanian Voiceover
 - [Exercitii De Dictie Zile Libere](https://www.dictie.ro/exercitii-dictie-zilele-libere/)
