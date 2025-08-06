@@ -50,6 +50,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Time And Date](https://www.timeanddate.com/calendar/create.html) - Printable Calendars
 - [Homemade Gifts](https://www.homemade-gifts-made-easy.com/index.html) - High Quality Free Calendar Templates
 - [Live Webcam JR](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) - Live Webcam from Sapporo Station, Hokkaido, Japan
+- [UpBeat.io](https://uppbeat.io/) - Free music for creators
+- [Royalty Free Space Sound Effects](https://pixabay.com/sound-effects/search/space/?theme=film+&+special+effects)
+- [Arweave](https://viewblock.io/arweave) - Arweave Blockchain exploration
 
 ## Software Development
 - [Design Patterns From Refactoring Guru](https://refactoring.guru/design-patterns) - Amazing book on design patterns
