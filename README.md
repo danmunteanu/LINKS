@@ -101,6 +101,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [ChurchCRM](https://churchcrm.io/) - A CRM for churches
 - [Lucide Icons](https://lucide.dev/) - Free icon library 
 - [Easing Functions](https://easings.net/#) - Choose the right easing function
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
 
 ### Markdown
 - [The Best Markdown Guide](http://markdownguide.offshoot.io)
