@@ -51,6 +51,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Homemade Gifts](https://www.homemade-gifts-made-easy.com/index.html) - High Quality Free Calendar Templates
 - [Live Webcam JR](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) - Live Webcam from Sapporo Station, Hokkaido, Japan
 - [UpBeat.io](https://uppbeat.io/) - Free music for creators
+- [Technology Logo](https://designstudio.smallseotools.com/logo-ideas/technology-logo) - Design your logo
 - [Royalty Free Space Sound Effects](https://pixabay.com/sound-effects/search/space/?theme=film+&+special+effects)
 - [Arweave](https://viewblock.io/arweave) - Arweave Blockchain exploration
 
@@ -84,6 +85,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 ## Job Hunt
 - [Simply Hired](https://www.simplyhired.com/) - Get hired!
 - [Just Remote](https://justremote.co/) - Remote Jobs
+- [VueJobs](https://vuejobs.com/jobs_ - Vue Jobs only
 
 ## Web Development
 ### HTML & Web
