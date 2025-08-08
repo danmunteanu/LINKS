@@ -85,7 +85,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 ## Job Hunt
 - [Simply Hired](https://www.simplyhired.com/) - Get hired!
 - [Just Remote](https://justremote.co/) - Remote Jobs
-- [VueJobs](https://vuejobs.com/jobs_ - Vue Jobs only
+- [VueJobs](https://vuejobs.com/jobs) - Vue Jobs only
 
 ## Web Development
 ### HTML & Web
@@ -107,6 +107,10 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Generate Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
 - [StackEdit](https://stackedit.io/app#) - Markdown Editor #1
 - [Dilinger.Io](https://dillinger.io) - Markdown Editor #2
+
+### C++
+- [Smart Pointers In Modern C++](https://learn.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170)
+- [Shared Pointer](https://en.cppreference.com/w/cpp/memory/shared_ptr/reset.html)
 
 ### Laravel & PHP
 - [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
