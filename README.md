@@ -89,8 +89,8 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 
 ## Web Development
 ### HTML & Web
-- [HTML Formatter](https://www.freeformatter.com/html-formatter.html)
-- [HTML Reference](https://htmlreference.io/) - Free Guide To HTML
+- [HTML Formatter](https://www.freeformatter.com/html-formatter.html) - Format your HTML code
+- [HTML Reference](https://htmlreference.io/) - Free guide to all HTML elements
 - [Jekyll Ruby](https://jekyllrb.com/) - Convert plain text to static sites
 - [FrontMatter Guide](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/)
 - [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
