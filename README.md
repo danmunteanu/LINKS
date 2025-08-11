@@ -2,7 +2,8 @@
 Most of the resources mentioned here are free to use. Some of them are paid (e.g. the Domestika.org courses). I'll keep adding links to this collection as time passes by.
 
 ## Table Of Contents
-- [Free Media, Utilities, Interesting](#free-media-utilities-interesting)
+- [Media](#media)
+- [Utilities](#utilities)
 - [Software Development](#software-development)
 - [Editors](#editors)
 - [Resume Builders / Templates](#resume-builders--templates)
@@ -39,21 +40,22 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 	- [Music Production](#music-production)
 - [Fedora](#fedora)
 
-## Free Media, Utilities, Interesting
+## Media
 - [Pixabay](https://pixabay.com/) - Free high-quality images
+- [Time And Date](https://www.timeanddate.com/calendar/create.html) - Printable Calendars
+- [Homemade Gifts](https://www.homemade-gifts-made-easy.com/index.html) - High Quality Free Calendar Templates
+- [Technology Logo](https://designstudio.smallseotools.com/logo-ideas/technology-logo) - Design your logo
+- [Live Webcam JR](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) - Live Webcam from Sapporo Station, Hokkaido, Japan
+- [Royalty Free Space Sound Effects](https://pixabay.com/sound-effects/search/space/?theme=film+&+special+effects)
+- [UpBeat.io](https://uppbeat.io/) - Free music for creators
+
+## Utilities
 - [Free Media Hack Yeah](https://fmhy.net/)  - The largest collection of free stuff on the internet
 - [QuickStuff.app](https://quickstuff.app/) - Handy tools to make life easier
 - [Remove Photo Background](https://www.remove.bg/upload)
 - [Convert PNG To Icons](https://convertico.com/)
 - [File Converter](https://cloudconvert.com/) - Convert any files
 - [Time Conversion Utilities](https://www.epochconverter.com/)
-- [Time And Date](https://www.timeanddate.com/calendar/create.html) - Printable Calendars
-- [Homemade Gifts](https://www.homemade-gifts-made-easy.com/index.html) - High Quality Free Calendar Templates
-- [Live Webcam JR](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) - Live Webcam from Sapporo Station, Hokkaido, Japan
-- [UpBeat.io](https://uppbeat.io/) - Free music for creators
-- [Technology Logo](https://designstudio.smallseotools.com/logo-ideas/technology-logo) - Design your logo
-- [Royalty Free Space Sound Effects](https://pixabay.com/sound-effects/search/space/?theme=film+&+special+effects)
-- [Arweave](https://viewblock.io/arweave) - Arweave Blockchain exploration
 - [TinyWow PDF](https://tinywow.com/tools/pdf) - PDF Tools from TinyWow
 - [TinyWow Image](https://tinywow.com/tools/image) - Image Tools from TinyWoW
 - [TinyWow Video](https://tinywow.com/tools/video) - Video Tools from TinyWow
@@ -106,6 +108,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Lucide Icons](https://lucide.dev/) - Free icon library 
 - [Easing Functions](https://easings.net/#) - Choose the right easing function
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
+- [Arweave](https://viewblock.io/arweave) - Arweave Blockchain exploration
 
 ### Markdown
 - [The Best Markdown Guide](http://markdownguide.offshoot.io)
