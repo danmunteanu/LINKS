@@ -54,6 +54,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Technology Logo](https://designstudio.smallseotools.com/logo-ideas/technology-logo) - Design your logo
 - [Royalty Free Space Sound Effects](https://pixabay.com/sound-effects/search/space/?theme=film+&+special+effects)
 - [Arweave](https://viewblock.io/arweave) - Arweave Blockchain exploration
+- [TinyWow PDF](https://tinywow.com/tools/pdf) - PDF Tools from TinyWow
+- [TinyWow Image](https://tinywow.com/tools/image) - Image Tools from TinyWoW
+- [TinyWow Video](https://tinywow.com/tools/video) - Video Tools from TinyWow
 
 ## Software Development
 - [Design Patterns From Refactoring Guru](https://refactoring.guru/design-patterns) - Amazing book on design patterns
@@ -86,6 +89,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Simply Hired](https://www.simplyhired.com/) - Get hired!
 - [Just Remote](https://justremote.co/) - Remote Jobs
 - [VueJobs](https://vuejobs.com/jobs) - Vue Jobs only
+- [DevJob.ro](https://devjob.ro/) - Romanian Dev Jobs
 
 ## Web Development
 ### HTML & Web
