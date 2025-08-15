@@ -144,6 +144,8 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Filepond](https://pqina.nl/filepond/?ref=pqina) - Upload any file, optimize images
 - [Howler.js](https://howlerjs.com/) - Audio library for the modern Web
 - [MD Timepicker](https://dmuy.github.io/MDTimePicker/) - Android-like round clock time picker
+- [Select2](https://select2.org/) - jQuery based replacement for select boxes
+- [Flatpickr](https://flatpickr.js.org/) - Lightweight and powerful datetime picker
 
 ### Three.js - 3D Graphics Javascript Library
 - [Voxels](https://threejs.org/examples/#webgl_interactive_voxelpainter)
