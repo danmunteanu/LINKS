@@ -18,8 +18,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 	- [Wordpress](#wordpress)
 - [Blogging & Writing](#blogging--writing)
 - [SEO](#seo)
-- [Software](#software)
-- [Automation](#automation)
+- [Software](#utility-software)
 - [Music Programming](#music-programming)
 	- [Chuck - Music Programming Language](#chuck---music-programming-language)
 	- [Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*](#creating-electronic-music-with-chuck---tutorial-series-by-clint-hoagland)
@@ -86,6 +85,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Upwork](https://www.upwork.com/) - Connecting clients *something, something*
 - [Freelancer](https://www.freelancer.com/) - Large freelancer marketplace
 - [PeoplePerHour](https://www.peopleperhour.com/) - Hire great freelancers
+- [Guru](https://www.guru.com) - Find & Hire Expert Freelancers
 
 ## Job Hunt
 - [Simply Hired](https://www.simplyhired.com/) - Get hired!
@@ -176,14 +176,10 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Ahrefs](https://ahrefs.com/blog/free-keyword-research-tools/) - Best Free Keyword Research Tools
 - [Ahrefs SEO Tools](https://ahrefs.com/blog/free-seo-tools/) - Free SEO Tools Collection From Ahrefs
 
-## Software
+## Utility Software
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - Tweak hidden Windows settings
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Open source disk encryption software
 - [WinUtils](https://github.com/christitustech/winutil) - Chris Titus Tech's Windows Utility
-
-## Automation
-- [n8n](https://n8n.io/) - Flexible AI Workflow Automation
-- [Zapier](https://zapier.com/) - Automate AI Workflows
 
 ## Music Programming
 ### Chuck - Music Programming Language
@@ -200,6 +196,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [09 - ADSR](https://www.youtube.com/watch?v=zSkbXPwMNcM)
 - [20 - Classes](https://www.youtube.com/watch?v=1E9IeA4rueA)
 - [40 - Making A Video Game Soundtrack](https://www.youtube.com/watch?v=JlikA_zDbnc)
+
+## Radio software
+- [Zetta](https://www.rcsworks.com/zetta/) - Radio Automation (PAID)
 
 ## Music Theory
 - [Affective Musical Key Characteristics](https://legacy.wmich.edu/mus-theo/courses/keys.html) 
