@@ -139,9 +139,10 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Chart.js](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html) - Radar Chart
 - [Chart.js](https://www.chartjs.org/) - JavaScript charting library
 - [Apex Charts](https://apexcharts.com/javascript-chart-demos/column-charts/column-with-data-labels/) - Modern Open-Source Charts
+- [Masonry](https://masonry.desandro.com/) - Masonry Library
 - [Air Datepicker](https://air-datepicker.com/) - Lightweight, customizable datepicker written in pure JavaScript
 - [Wavesurfer](https://wavesurfer.xyz/) - Open-Source Audio Visualization Library
-- [LemonadeJS](https://lemonadejs.com/) - Lightweight JS Library
+- [LemonadeJS](https://lemonadejs.com/) - Agnostic Micro Reactive JavaScript Library
 - [LemonadeJS Timeline](https://lemonadejs.com/docs/plugins/timeline) - Timeline Plugin From Lemonade JS
 - [Vanta.js](https://www.vantajs.com/?effect=waves) - Animated Website Backgrounds
 - [Faker](https://fakerjs.dev/) - Generate Fake Data For Testing & Development
