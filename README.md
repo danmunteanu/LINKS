@@ -47,6 +47,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Live Webcam JR](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) - Live Webcam from Sapporo Station, Hokkaido, Japan
 - [Royalty Free Space Sound Effects](https://pixabay.com/sound-effects/search/space/?theme=film+&+special+effects)
 - [UpBeat.io](https://uppbeat.io/) - Free music for creators
+- [Class Central](https://www.classcentral.com/) - Find your next course
 
 ## Utilities
 - [Free Media Hack Yeah](https://fmhy.net/)  - The largest collection of free stuff on the internet
@@ -103,19 +104,23 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
 - [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
 - [Responsive Vertical Timeline](https://codyhouse.co/demo/vertical-timeline/index.html) - Timeline Demo from CodyHouse
-- [CodyHouse](https://codyhouse.co/) - Web Design Templates
 - [Debug Bear](https://www.debugbear.com/blog) - How does the web work?
+- [CodyHouse](https://codyhouse.co/) - Web Design Templates
 - [ChurchCRM](https://churchcrm.io/) - A CRM for churches
-- [Lucide Icons](https://lucide.dev/) - Free icon library 
 - [Easing Functions](https://easings.net/#) - Choose the right easing function
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
 - [Arweave](https://viewblock.io/arweave) - Arweave Blockchain exploration
+- [Lucide Icons](https://lucide.dev/) - Free icon library
+
+## Web Utils
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
+- [DNSDumpster](https://dnsdumpster.com/) - Find subdomains
 
 ### Markdown
-- [The Best Markdown Guide](http://markdownguide.offshoot.io)
+- [The Best Markdown Guide](https://markdownguide.offshoot.io/getting-started/) - Getting started with Markdown
 - [Generate Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
 - [StackEdit](https://stackedit.io/app#) - Markdown Editor #1
 - [Dilinger.Io](https://dillinger.io) - Markdown Editor #2
+- [Cleaver](https://jdan.github.io/cleaver/) - Turn Markdown to slides
 
 ### C++
 - [Smart Pointers In Modern C++](https://learn.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170)
