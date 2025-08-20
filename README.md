@@ -48,6 +48,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Royalty Free Space Sound Effects](https://pixabay.com/sound-effects/search/space/?theme=film+&+special+effects)
 - [UpBeat.io](https://uppbeat.io/) - Free music for creators
 - [Class Central](https://www.classcentral.com/) - Find your next course
+- [White Noise Generator](https://mynoise.net/NoiseMachines/whiteNoiseGenerator.php) - Generates white, pink and brown noise
 
 ## Utilities
 - [Free Media Hack Yeah](https://fmhy.net/)  - The largest collection of free stuff on the internet
