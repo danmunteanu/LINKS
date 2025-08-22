@@ -13,8 +13,8 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 	- [HTML & Web](#html--web)
 - [Web Utils](#web-utils)
 	- [Markdown](#markdown)
-	- [C++](#c)
 	- [Laravel & PHP](#laravel--php)
+	- [C++](#c)
 	- [Javascript Libraries](#javascript-libraries)
 	- [Three.js - 3D Graphics Javascript Library](#threejs---3d-graphics-javascript-library)
 	- [Wordpress](#wordpress)
@@ -24,8 +24,8 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Music Programming](#music-programming)
 	- [Chuck - Music Programming Language](#chuck---music-programming-language)
 	- [Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*](#creating-electronic-music-with-chuck---tutorial-series-by-clint-hoagland)
-- [Radio software](#radio-software)
 - [Music Theory](#music-theory)
+- [Radio software](#radio-software)
 - [Music](#music)
 - [Path Of Exile](#path-of-exile)
 	- [Guides, Tutorials](#guides-tutorials)
@@ -34,13 +34,15 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Audio Processing](#audio-processing)
 - [Voiceover Resources](#voiceover-resources)
 - [Romanian Voiceover](#romanian-voiceover)
-- [For Romanian Speakers Only](#for-romanian-speakers-only)
-- [Courses on Domestika.org](#courses-on-domestikaorg)
-	- [HTML & Web](#html--web)
-	- [DJ & Mixing](#dj--mixing)
-	- [Voiceovers](#voiceovers)
-	- [Music Production](#music-production)
+- [For Romanian Business](#for-romanian-business)
+- [Courses](#courses)
+	- [Domestika.org](#domestikaorg)
+		- [HTML & Web](#html--web)
+		- [DJ & Mixing](#dj--mixing)
+		- [Voiceovers](#voiceovers)
+		- [Music Production](#music-production)
 - [Fedora](#fedora)
+
 
 ## Media
 - [Pixabay](https://pixabay.com/) - Free high-quality images
@@ -50,7 +52,6 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Live Webcam JR](https://www.webcamtaxi.com/en/japan/hokkaido/jr-sapporo-station-cam.html) - Live Webcam from Sapporo Station, Hokkaido, Japan
 - [Royalty Free Space Sound Effects](https://pixabay.com/sound-effects/search/space/?theme=film+&+special+effects)
 - [UpBeat.io](https://uppbeat.io/) - Free music for creators
-- [Class Central](https://www.classcentral.com/) - Find your next course
 - [White Noise Generator](https://mynoise.net/NoiseMachines/whiteNoiseGenerator.php) - Generates white, pink and brown noise
 
 ## Utilities
@@ -117,6 +118,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Lucide Icons](https://lucide.dev/) - Free icon library
 - [Hyper UI](https://www.hyperui.dev/) - Free Open Source Tailwind CSS v4 Components
 - [Site Didactic](https://web.ceiti.md/index.php) - (Romanian) Invata Dezvoltare Web
+- [11ty](https://www.11ty.dev/) - Static Site Generator
 
 ## Web Utils
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
@@ -193,7 +195,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 ## Utility Software
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - Tweak hidden Windows settings
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Open source disk encryption software
-- [WinUtils](https://github.com/christitustech/winutil) - Chris Titus Tech's Windows Utility
+- [WinUtils](https://github.com/christitustech/winutil) - Chris Titus Tech's Windows Debloating Utilities
 
 ## Music Programming
 ### Chuck - Music Programming Language
@@ -211,9 +213,6 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [20 - Classes](https://www.youtube.com/watch?v=1E9IeA4rueA)
 - [40 - Making A Video Game Soundtrack](https://www.youtube.com/watch?v=JlikA_zDbnc)
 
-## Radio software
-- [Zetta](https://www.rcsworks.com/zetta/) - Radio Automation (PAID)
-
 ## Music Theory
 - [Affective Musical Key Characteristics](https://legacy.wmich.edu/mus-theo/courses/keys.html) 
 - [How You Should Feel in the Key of C Sharp Major / D flat major](https://interlude.hk/feel-key-c-sharp-major-d-flat-major/)
@@ -221,6 +220,9 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [ThinkSpace - Learn Music Theory](https://thinkspace.ac.uk/courses/learn-music-theory/) - Amazing Music Theory Course by Guy Mitchelmore (Paid)
 - [Music Theory Tools](https://www.musictheory.net/tools) - Chord calculator, accidental calculator, interval calculator, etc...
 - [Gammes](https://gammes.gridsound.com/) - Nice music theory site
+
+## Radio software
+- [Zetta](https://www.rcsworks.com/zetta/) - Radio Automation (PAID)
 
 ## Music
 - [Equus Caballus](https://menitrust.bandcamp.com/album/equus-caballus) - Music Album From *Men I Trust*
@@ -265,12 +267,15 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Antrenament Exercitii De Dictie](https://www.dictie.ro/antrenament-exercitii-de-dictie/)
 - [Exercitii De Dictie Celebre](https://www.dictie.ro/25-de-exercitii-de-dictie-celebre/)
 
-## For Romanian Speakers Only
+## For Romanian Business
 - [StartCo](https://cloud.startco.ro/dashboard) - Pornește-ți Afacerea
 - [Generator Declarație Unică](https://startco.ro/declaratia-unica)
 - [Insuretech](https://insuretech.ro/) - Gestiuneaza-ți Afacerea
 
-## Courses on Domestika.org
+## Courses 
+- [Class Central](https://www.classcentral.com/) - Find your next course
+
+### Domestika.org
 #### HTML & Web
 - [Introduction to Responsive Web Development with HTML and CSS](https://www.domestika.org/en/courses/74-introduction-to-responsive-web-development-with-html-and-css)
 - [Web Layout with CSS Grid, Flexbox and other Modern Techniques](https://www.domestika.org/en/courses/389-web-layout-with-css-grid-flexbox-and-other-modern-techniques)
