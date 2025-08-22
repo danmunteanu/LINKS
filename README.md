@@ -111,6 +111,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Easing Functions](https://easings.net/#) - Choose the right easing function
 - [Arweave](https://viewblock.io/arweave) - Arweave Blockchain exploration
 - [Lucide Icons](https://lucide.dev/) - Free icon library
+- [Hyper UI](https://www.hyperui.dev/) - Free Open Source Tailwind CSS v4 Components
 
 ## Web Utils
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
