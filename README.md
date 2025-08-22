@@ -1,27 +1,30 @@
 # A collection of useful links
 Most of the resources mentioned here are free to use. Some of them are paid (e.g. the Domestika.org courses). I'll keep adding links to this collection as time passes by.
 
-## Table Of Contents
+## Index
 - [Media](#media)
 - [Utilities](#utilities)
 - [Software Development](#software-development)
-- [Editors](#editors)
+- [Editors & IDEs](#editors--ides)
 - [Resume Builders / Templates](#resume-builders--templates)
 - [Freelancing Sites](#freelancing-sites)
 - [Job Hunt](#job-hunt)
 - [Web Development](#web-development)
 	- [HTML & Web](#html--web)
+- [Web Utils](#web-utils)
 	- [Markdown](#markdown)
+	- [C++](#c)
 	- [Laravel & PHP](#laravel--php)
 	- [Javascript Libraries](#javascript-libraries)
 	- [Three.js - 3D Graphics Javascript Library](#threejs---3d-graphics-javascript-library)
 	- [Wordpress](#wordpress)
 - [Blogging & Writing](#blogging--writing)
 - [SEO](#seo)
-- [Software](#utility-software)
+- [Utility Software](#utility-software)
 - [Music Programming](#music-programming)
 	- [Chuck - Music Programming Language](#chuck---music-programming-language)
 	- [Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*](#creating-electronic-music-with-chuck---tutorial-series-by-clint-hoagland)
+- [Radio software](#radio-software)
 - [Music Theory](#music-theory)
 - [Music](#music)
 - [Path Of Exile](#path-of-exile)
@@ -68,7 +71,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Golas](https://golas.blog/) - Programming Blog
 - [Godot](https://godotengine.org/features/) - Build your game from simple blocks
 
-## Editors
+## Editors & IDEs
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Sublime Text](https://www.sublimetext.com/)
@@ -95,6 +98,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Just Remote](https://justremote.co/) - Remote Jobs
 - [VueJobs](https://vuejobs.com/jobs) - Vue Jobs only
 - [DevJob.ro](https://devjob.ro/) - Romanian Dev Jobs
+- [Unde Lucram](https://www.undelucram.ro/ro/locuri-de-munca) - Jobs In Romania
 
 ## Web Development
 ### HTML & Web
@@ -112,6 +116,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Arweave](https://viewblock.io/arweave) - Arweave Blockchain exploration
 - [Lucide Icons](https://lucide.dev/) - Free icon library
 - [Hyper UI](https://www.hyperui.dev/) - Free Open Source Tailwind CSS v4 Components
+- [Site Didactic](https://web.ceiti.md/index.php) - (Romanian) Invata Dezvoltare Web
 
 ## Web Utils
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
@@ -124,14 +129,14 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Dilinger.Io](https://dillinger.io) - Markdown Editor #2
 - [Cleaver](https://jdan.github.io/cleaver/) - Turn Markdown to slides
 
-### C++
-- [Smart Pointers In Modern C++](https://learn.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170)
-- [Shared Pointer](https://en.cppreference.com/w/cpp/memory/shared_ptr/reset.html)
-
 ### Laravel & PHP
 - [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
 - [Laravel Unique Validation For Multiple Columns](https://laraveldaily.com/post/laravel-unique-validation-multiple-columns)
 - [A Detailed Guide To PHP Debugging](https://stackify.com/php-debugging-guide/)
+
+### C++
+- [Smart Pointers In Modern C++](https://learn.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170)
+- [Shared Pointer](https://en.cppreference.com/w/cpp/memory/shared_ptr/reset.html)
 
 ### Javascript Libraries
 - [Vue.js](https://vuejs.org/) - Progressive Javascript Framework
