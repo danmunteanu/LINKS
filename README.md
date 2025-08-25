@@ -255,6 +255,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Enhance Speech v2](https://podcast.adobe.com/en/enhance) - Cleanup Your Audio
 - [2nd Opinion](https://stevenjaycohen.com/2015/10/08/get-a-2nd-opinion-before-sending-off-that-audiobook/) – Before sending that audiobook
 - [PaulXStretch](https://sonosaurus.com/paulxstretch/) – Radical transformation of sounds
+- [CoeFont](https://coefont.cloud/en) - AI Voices
 
 ## Voiceover Resources
 - [Cronometer](https://voce.md/en/cronometer) - Script reading duration estimate
