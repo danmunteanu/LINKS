@@ -79,6 +79,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Obsidian](https://obsidian.md/)
 - [Zed](https://zed.dev/) - Intelligent Code Editor (Linux and Mac)
 - [Atom](https://atom-editor.cc/) - Hackable text editor *(discontinued*)
+- [Rider](https://www.jetbrains.com/rider/) - Jetbrains .NET and game dev IDE
 
 ## Resume Builders / Templates
 - [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/#about)
@@ -119,6 +120,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Hyper UI](https://www.hyperui.dev/) - Free Open Source Tailwind CSS v4 Components
 - [Site Didactic](https://web.ceiti.md/index.php) - (Romanian) Invata Dezvoltare Web
 - [11ty](https://www.11ty.dev/) - Static Site Generator
+- [JSON Formatter](https://jsonformatter.curiousconcept.com/) - Formats your JSON code
 
 ## Web Utils
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
