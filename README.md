@@ -65,6 +65,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [TinyWow Image](https://tinywow.com/tools/image) - Image Tools from TinyWoW
 - [TinyWow Video](https://tinywow.com/tools/video) - Video Tools from TinyWow
 - [Windows 10/11 Debloater](https://github.com/Raphire/Win11Debloat)
+- [Chocolatey](https://community.chocolatey.org/) - Largest repository of Winows packages
 
 ## Software Development
 - [Design Patterns From Refactoring Guru](https://refactoring.guru/design-patterns) - Amazing book on design patterns
