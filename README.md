@@ -167,6 +167,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [MD Timepicker](https://dmuy.github.io/MDTimePicker/) - Android-like round clock time picker
 - [Select2](https://select2.org/) - jQuery based replacement for select boxes
 - [Flatpickr](https://flatpickr.js.org/) - Lightweight and powerful datetime picker
+- [D3.js](https://d3js.org/) - Create custom dynamic visualizations 
 
 ### Three.js - 3D Graphics Javascript Library
 - [Voxels](https://threejs.org/examples/#webgl_interactive_voxelpainter)
