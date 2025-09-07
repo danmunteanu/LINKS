@@ -1,7 +1,7 @@
 # A collection of useful links
 Most of the resources mentioned here are free to use. Some of them are paid (e.g. the Domestika.org courses). I'll keep adding links to this collection as time passes by.
 
-## Index
+## Table Of Contents
 - [Media](#media)
 - [Utilities](#utilities)
 - [Software Development](#software-development)
