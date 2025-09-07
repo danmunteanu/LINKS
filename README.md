@@ -1,5 +1,5 @@
-# A collection of useful links
-Most of the resources mentioned here are free to use. Some of them are paid (e.g. the Domestika.org courses). I'll keep adding links to this collection as time passes by.
+# A collection of bookmarks I want to share and keep
+Most of the resources mentioned here are free to use and only a few of them are paid (e.g.the Domestika.org courses). 
 
 ## Table Of Contents
 - [Media](#media)
@@ -34,7 +34,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Audio Processing](#audio-processing)
 - [Voiceover Resources](#voiceover-resources)
 - [Romanian Voiceover](#romanian-voiceover)
-- [For Romanian Business](#for-romanian-business)
+- [For Romanian Businesses](#for-romanian-businesses)
 - [Courses](#courses)
 	- [Domestika.org](#domestikaorg)
 		- [HTML & Web](#html--web)
@@ -274,7 +274,7 @@ Most of the resources mentioned here are free to use. Some of them are paid (e.g
 - [Antrenament Exercitii De Dictie](https://www.dictie.ro/antrenament-exercitii-de-dictie/)
 - [Exercitii De Dictie Celebre](https://www.dictie.ro/25-de-exercitii-de-dictie-celebre/)
 
-## For Romanian Business
+## For Romanian Businesses
 - [StartCo](https://cloud.startco.ro/dashboard) - Pornește-ți Afacerea
 - [Generator Declarație Unică](https://startco.ro/declaratia-unica)
 - [Insuretech](https://insuretech.ro/) - Gestiuneaza-ți Afacerea
