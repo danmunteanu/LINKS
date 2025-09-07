@@ -5,16 +5,14 @@ Most of the resources mentioned here are free to use and only a few of them are 
 - [Media](#media)
 - [Utilities](#utilities)
 - [Software Development](#software-development)
-- [Editors & IDEs](#editors--ides)
+- [Text Editors & IDEs](#editors--ides)
 - [Resume Builders / Templates](#resume-builders--templates)
 - [Freelancing Sites](#freelancing-sites)
 - [Job Hunt](#job-hunt)
 - [Web Development](#web-development)
-	- [HTML & Web](#html--web)
-- [Web Utils](#web-utils)
+	- [HTML & Web Utils](#html--web-utils)
 	- [Markdown](#markdown)
 	- [Laravel & PHP](#laravel--php)
-	- [C++](#c)
 	- [Javascript Libraries](#javascript-libraries)
 	- [Three.js - 3D Graphics Javascript Library](#threejs---3d-graphics-javascript-library)
 	- [Wordpress](#wordpress)
@@ -43,7 +41,6 @@ Most of the resources mentioned here are free to use and only a few of them are 
 		- [Music Production](#music-production)
 - [Fedora](#fedora)
 
-
 ## Media
 - [Pixabay](https://pixabay.com/) - Free high-quality images
 - [Time And Date](https://www.timeanddate.com/calendar/create.html) - Printable Calendars
@@ -65,16 +62,16 @@ Most of the resources mentioned here are free to use and only a few of them are 
 - [TinyWow PDF](https://tinywow.com/tools/pdf) - PDF Tools from TinyWow
 - [TinyWow Image](https://tinywow.com/tools/image) - Image Tools from TinyWoW
 - [TinyWow Video](https://tinywow.com/tools/video) - Video Tools from TinyWow
-- [Windows 10/11 Debloater](https://github.com/Raphire/Win11Debloat)
-- [Chocolatey](https://community.chocolatey.org/) - Largest repository of Winows packages
 
 ## Software Development
 - [Design Patterns From Refactoring Guru](https://refactoring.guru/design-patterns) - Amazing book on design patterns
 - [Mermaid](https://mermaid.js.org/syntax/gitgraph.html) - Create Diagrams (Gantt, Pie, Class, GitGraph)
 - [Golas](https://golas.blog/) - Programming Blog
 - [Godot](https://godotengine.org/features/) - Build your game from simple blocks
+- [Smart Pointers In Modern C++](https://learn.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170)
+- [Shared Pointers in C++](https://en.cppreference.com/w/cpp/memory/shared_ptr/reset.html)
 
-## Editors & IDEs
+## Text Editors & IDEs
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Sublime Text](https://www.sublimetext.com/)
@@ -105,7 +102,7 @@ Most of the resources mentioned here are free to use and only a few of them are 
 - [Unde Lucram](https://www.undelucram.ro/ro/locuri-de-munca) - Jobs In Romania
 
 ## Web Development
-### HTML & Web
+### HTML & Web Utils
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html) - Format your HTML code
 - [HTML Reference](https://htmlreference.io/) - Free guide to all HTML elements
 - [HTML RFC2161](https://datatracker.ietf.org/doc/html/rfc2616) - Hypertext Transfer Protocol HTTP/1.1
@@ -124,8 +121,6 @@ Most of the resources mentioned here are free to use and only a few of them are 
 - [Site Didactic](https://web.ceiti.md/index.php) - (Romanian) Invata Dezvoltare Web
 - [11ty](https://www.11ty.dev/) - Static Site Generator
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/) - Formats your JSON code
-
-## Web Utils
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
 - [DNSDumpster](https://dnsdumpster.com/) - Find subdomains
 
@@ -140,10 +135,6 @@ Most of the resources mentioned here are free to use and only a few of them are 
 - [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
 - [Laravel Unique Validation For Multiple Columns](https://laraveldaily.com/post/laravel-unique-validation-multiple-columns)
 - [A Detailed Guide To PHP Debugging](https://stackify.com/php-debugging-guide/)
-
-### C++
-- [Smart Pointers In Modern C++](https://learn.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170)
-- [Shared Pointer](https://en.cppreference.com/w/cpp/memory/shared_ptr/reset.html)
 
 ### Javascript Libraries
 - [Vue.js](https://vuejs.org/) - Progressive Javascript Framework
@@ -199,9 +190,12 @@ Most of the resources mentioned here are free to use and only a few of them are 
 - [Ahrefs SEO Tools](https://ahrefs.com/blog/free-seo-tools/) - Free SEO Tools Collection From Ahrefs
 
 ## Utility Software
+- [Windows 10/11 Debloater](https://github.com/Raphire/Win11Debloat) - Easy to use PowerShell script to debload windows
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - Tweak hidden Windows settings
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Open source disk encryption software
 - [WinUtils](https://github.com/christitustech/winutil) - Chris Titus Tech's Windows Debloating Utilities
+- [Chocolatey](https://community.chocolatey.org/) - Largest repository of Winows packages
+
 
 ## Music Programming
 ### Chuck - Music Programming Language
