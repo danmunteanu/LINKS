@@ -1,5 +1,5 @@
-# A collection of bookmarks I want to share and keep
-Most of the resources mentioned here are free to use and only a few of them are paid (e.g.the Domestika.org courses). 
+# A collection of useful bookmarks
+A (growing) collection of resources that are mostly free.
 
 ## Table Of Contents
 - [Media](#media)
