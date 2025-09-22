@@ -59,9 +59,11 @@ A (growing) collection of resources that are mostly free.
 - [Convert PNG To Icons](https://convertico.com/)
 - [File Converter](https://cloudconvert.com/) - Convert any files
 - [Time Conversion Utilities](https://www.epochconverter.com/)
+- [FFMpegs Pages](https://ffmpegs.pages.dev/) - Simple media processing for everyone
 - [TinyWow PDF](https://tinywow.com/tools/pdf) - PDF Tools from TinyWow
 - [TinyWow Image](https://tinywow.com/tools/image) - Image Tools from TinyWoW
 - [TinyWow Video](https://tinywow.com/tools/video) - Video Tools from TinyWow
+- [LosslessCut](https://mifi.no/losslesscut/) - Lossless video and audio editing
 
 ## Software Development
 - [Design Patterns From Refactoring Guru](https://refactoring.guru/design-patterns) - Amazing book on design patterns
@@ -97,6 +99,7 @@ A (growing) collection of resources that are mostly free.
 
 ## Job Hunt
 - [Simply Hired](https://www.simplyhired.com/) - Get hired!
+- [Flexjobs](https://www.flexjobs.com/homevariant/t2) - Find remote jobs
 - [Just Remote](https://justremote.co/) - Remote Jobs
 - [VueJobs](https://vuejobs.com/jobs) - Vue Jobs only
 - [DevJob.ro](https://devjob.ro/) - Romanian Dev Jobs
@@ -109,6 +112,7 @@ A (growing) collection of resources that are mostly free.
 - [HTML RFC2161](https://datatracker.ietf.org/doc/html/rfc2616) - Hypertext Transfer Protocol HTTP/1.1
 - [Bulma CSS](https://bulma.io/) - The Modern CSS Framework
 - [Jekyll Ruby](https://jekyllrb.com/) - Convert plain text to static sites
+- [Netlify.app](https://stwd.netlify.app/resources) - Free resources to learn web development
 - [FrontMatter Guide](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/)
 - [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
 - [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
