@@ -262,6 +262,7 @@ A (growing) collection of resources that are mostly free.
 - [2nd Opinion](https://stevenjaycohen.com/2015/10/08/get-a-2nd-opinion-before-sending-off-that-audiobook/) – Before sending that audiobook
 - [PaulXStretch](https://sonosaurus.com/paulxstretch/) – Radical transformation of sounds
 - [CoeFont](https://coefont.cloud/en) - AI Voices
+- [PluginGuiMagic](https://foleysfinest.com/developer/pluginguimagic/) - Design your audio plugin GUI 
 
 ## Voiceover Resources
 - [Cronometer](https://voce.md/en/cronometer) - Script reading duration estimate
