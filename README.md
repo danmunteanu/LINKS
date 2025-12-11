@@ -2,7 +2,7 @@
 As I explored many of my interests, my collection of links grew and grew. One day, I thought to myself *why not make them public?* Here are a bunch of links I've found interesting, in a very loose order.
 
 ## Table Of Contents
-- [Media](#media)
+- [Media (images, logos, templates, sound fx)](#media-images-logos-templates-sound-fx)
 - [Utilities](#utilities)
 - [Software Development](#software-development)
 - [Text Editors & IDEs](#text-editors--ides)
@@ -40,6 +40,7 @@ As I explored many of my interests, my collection of links grew and grew. One da
 		- [Voiceovers](#voiceovers)
 		- [Music Production](#music-production)
 - [Fedora](#fedora)
+
 
 ## Media (images, logos, templates, sound fx)
 - [Pixabay](https://pixabay.com/) - Free high-quality images
