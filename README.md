@@ -1,11 +1,11 @@
-# A collection of useful bookmarks
-A (growing) collection of resources that are mostly free.
+# A collection of handy bookmarks
+As I explored many of my interests, my collection of links grew and grew. One day, I thought to myself *why not make them public?* Here are a bunch of links I've found interesting, in a very loose order.
 
 ## Table Of Contents
 - [Media](#media)
 - [Utilities](#utilities)
 - [Software Development](#software-development)
-- [Text Editors & IDEs](#editors--ides)
+- [Text Editors & IDEs](#text-editors--ides)
 - [Resume Builders / Templates](#resume-builders--templates)
 - [Freelancing Sites](#freelancing-sites)
 - [Job Hunt](#job-hunt)
@@ -41,7 +41,7 @@ A (growing) collection of resources that are mostly free.
 		- [Music Production](#music-production)
 - [Fedora](#fedora)
 
-## Media
+## Media (images, logos, templates, sound fx)
 - [Pixabay](https://pixabay.com/) - Free high-quality images
 - [Time And Date](https://www.timeanddate.com/calendar/create.html) - Printable Calendars
 - [Homemade Gifts](https://www.homemade-gifts-made-easy.com/index.html) - High Quality Free Calendar Templates
@@ -201,7 +201,6 @@ A (growing) collection of resources that are mostly free.
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Open source disk encryption software
 - [WinUtils](https://github.com/christitustech/winutil) - Chris Titus Tech's Windows Debloating Utilities
 - [Chocolatey](https://community.chocolatey.org/) - Largest repository of Winows packages
-
 
 ## Music Programming
 ### Chuck - Music Programming Language
