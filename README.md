@@ -54,7 +54,7 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [FastStone](https://www.faststone.org/) - Image Viewer
 
 ## Utilities
-- [Free Media Hack Yeah](https://fmhy.net/)  - The largest collection of free stuff on the internet
+- [Free Media Hack Yeah](https://fmhy.net/) - The largest collection of free stuff on the internet
 - [QuickStuff.app](https://quickstuff.app/) - Handy tools to make life easier
 - [Remove Photo Background](https://www.remove.bg/upload)
 - [Convert PNG To Icons](https://convertico.com/)
