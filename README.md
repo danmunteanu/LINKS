@@ -84,13 +84,6 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [Atom](https://atom-editor.cc/) - Hackable text editor *(discontinued*)
 - [Rider](https://www.jetbrains.com/rider/) - Jetbrains .NET and game dev IDE
 
-## Resume Builders / Templates
-- [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/#about)
-- [Dopefolio](https://dopefolio.netlify.app/#projects) - Projects portfolio DEMO
-- [Dopefolio](https://github.com/rammcodes/Dopefolio) - Source Code
-- [Resumake](https://resumake.io/) - Visually Design Your Resume
-- [Resume Genius](https://resumegenius.com/)
-
 ## Freelancing Sites
 - [Fiverr](https://www.fiverr.com/) - Gig Economy
 - [Upwork](https://www.upwork.com/) - Connecting clients *something, something*
@@ -98,13 +91,20 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [PeoplePerHour](https://www.peopleperhour.com/) - Hire great freelancers
 - [Guru](https://www.guru.com) - Find & Hire Expert Freelancers
 
-## Job Hunt
+## Job Hunting
 - [Simply Hired](https://www.simplyhired.com/) - Get hired!
 - [Flexjobs](https://www.flexjobs.com/homevariant/t2) - Find remote jobs
 - [Just Remote](https://justremote.co/) - Remote Jobs
 - [VueJobs](https://vuejobs.com/jobs) - Vue Jobs only
 - [DevJob.ro](https://devjob.ro/) - Romanian Dev Jobs
 - [Unde Lucram](https://www.undelucram.ro/ro/locuri-de-munca) - Jobs In Romania
+
+## Resume Builders / Templates
+- [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/#about)
+- [Dopefolio](https://dopefolio.netlify.app/#projects) - Projects portfolio DEMO
+- [Dopefolio](https://github.com/rammcodes/Dopefolio) - Source Code
+- [Resumake](https://resumake.io/) - Visually Design Your Resume
+- [Resume Genius](https://resumegenius.com/)
 
 ## Web Development
 ### HTML & Web Utils
@@ -199,7 +199,7 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [Ahrefs SEO Tools](https://ahrefs.com/blog/free-seo-tools/) - Free SEO Tools Collection From Ahrefs
 
 ## Utility Software
-- [Windows 10/11 Debloater](https://github.com/Raphire/Win11Debloat) - Easy to use PowerShell script to debload windows
+- [Windows 10/11 Debloater](https://github.com/Raphire/Win11Debloat) - Easy to use PowerShell script to debloat windows
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - Tweak hidden Windows settings
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Open source disk encryption software
 - [WinUtils](https://github.com/christitustech/winutil) - Chris Titus Tech's Windows Debloating Utilities
@@ -221,7 +221,7 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [20 - Classes](https://www.youtube.com/watch?v=1E9IeA4rueA)
 - [40 - Making A Video Game Soundtrack](https://www.youtube.com/watch?v=JlikA_zDbnc)
 
-## Music Theory
+### Music Theory
 - [Affective Musical Key Characteristics](https://legacy.wmich.edu/mus-theo/courses/keys.html) 
 - [How You Should Feel in the Key of C Sharp Major / D flat major](https://interlude.hk/feel-key-c-sharp-major-d-flat-major/)
 - [How You Should Feel in the Key of G Minor](https://interlude.hk/feel-key-g-minor/)
@@ -229,10 +229,10 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [Music Theory Tools](https://www.musictheory.net/tools) - Chord calculator, accidental calculator, interval calculator, etc...
 - [Gammes](https://gammes.gridsound.com/) - Nice music theory site
 
-## Radio software
+### Radio software
 - [Zetta](https://www.rcsworks.com/zetta/) - Radio Automation (PAID)
 
-## Music
+### Music
 - [Equus Caballus](https://menitrust.bandcamp.com/album/equus-caballus) - Music Album From *Men I Trust*
 - [No Rest For The Wicked (Original Early Access Soundtrack)](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu?flow_ctx=d3365456-b736-45ee-95f2-5b26df744c42%3A1752679796)
 
@@ -266,7 +266,7 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [CoeFont](https://coefont.cloud/en) - AI Voices
 - [PluginGuiMagic](https://foleysfinest.com/developer/pluginguimagic/) - Design your audio plugin GUI 
 
-## Voiceover Resources
+## Voiceover Helpers
 - [Cronometer](https://voce.md/en/cronometer) - Script reading duration estimate
 - [Quillbot](https://quillbot.com) - AI Writer, Paraphrasing
 
