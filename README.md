@@ -4,17 +4,10 @@ As I explored many of my interests, my collection of links grew and grew. One da
 ## Table Of Contents
 - [Media (images, logos, templates, sound fx)](#media-images-logos-templates-sound-fx)
 - [Utilities](#utilities)
-- [Software Development](#software-development)
-- [Text Editors & IDEs](#text-editors--ides)
 - [Web Development](#web-development)	
-	- [Markdown](#markdown)	
-	- [Wordpress](#wordpress)
-- [Blogging & Writing](#blogging--writing)
-- [SEO](#seo)
+- [Markdown](#markdown)	
 - [Utility Software](#utility-software)
 - [Music Programming](#music-programming)
-	- [Chuck - Music Programming Language](#chuck---music-programming-language)
-	- [Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*](#creating-electronic-music-with-chuck---tutorial-series-by-clint-hoagland)
 - [Music Theory](#music-theory)
 - [Radio software](#radio-software)
 - [Music](#music)
@@ -46,52 +39,12 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [TinyWow Video](https://tinywow.com/tools/video) - Video Tools from TinyWow
 - [LosslessCut](https://mifi.no/losslesscut/) - Lossless video and audio editing
 
-## Software Development
-- [Design Patterns From Refactoring Guru](https://refactoring.guru/design-patterns) - Amazing book on design patterns
-- [Mermaid](https://mermaid.js.org/syntax/gitgraph.html) - Create Diagrams (Gantt, Pie, Class, GitGraph)
-- [Golas](https://golas.blog/) - Programming Blog
-- [Godot](https://godotengine.org/features/) - Build your game from simple blocks
-- [Smart Pointers In Modern C++](https://learn.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170)
-- [Shared Pointers in C++](https://en.cppreference.com/w/cpp/memory/shared_ptr/reset.html)
-- [Mono Game](https://monogame.net/) Mono Game Library
-
-## Text Editors & IDEs
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Notepad++](https://notepad-plus-plus.org/)
-- [Sublime Text](https://www.sublimetext.com/)
-- [Obsidian](https://obsidian.md/)
-- [Zed](https://zed.dev/) - Intelligent Code Editor (Linux and Mac)
-- [Atom](https://atom-editor.cc/) - Hackable text editor *(discontinued*)
-- [Rider](https://www.jetbrains.com/rider/) - Jetbrains .NET and game dev IDE
-
-## Web 
-
-### Markdown
+## Markdown
 - [The Best Markdown Guide](https://markdownguide.offshoot.io/getting-started/) - Getting started with Markdown
 - [Generate Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
 - [StackEdit](https://stackedit.io/app#) - Markdown Editor #1
 - [Dilinger.Io](https://dillinger.io) - Markdown Editor #2
 - [Cleaver](https://jdan.github.io/cleaver/) - Turn Markdown to slides
-
-### Wordpress
-- [Install Wordpress On Ubuntu Using Docker](https://www.hostinger.com/tutorials/run-docker-wordpress)
-- [How To Protect Your *wp-content* Folder (Wordpress)](https://hostadvice.com/how-to/website-builders/wordpress/how-to-protect-the-wp-content-folder-of-your-wordpress-website/)
-- [Convert A Wordpress Site To Markdown](https://kevquirk.com/how-to-convert-wordpress-to-markdown)
-- [Best Wordpress Page Builders](https://www.hostinger.com/tutorials/wordpress-page-builders)
-- [Mail Poet](https://www.mailpoet.com/) - Email For Wordpress
-
-## Blogging & Writing
-- [Reedsy Blog](https://blog.reedsy.com/)  - Amazing articles on writing
-- [50 Ideas For Blog Posts](https://louplummer.lol/50-ideas-for-blog-posts/)
-- [50 More Ideas For Blog Posts](https://louplummer.lol/50-more-blogging-prompts)
-
-## SEO
-- [Small SEO Tools](https://smallseotools.com/)
-- [The 2022 SEO Cheat Sheet](https://granwehr.com/blog/seo-cheat-sheet)
-- [What Is A Good TF? DR? DA?](https://sagapixel.com/seo/what-is-a-good-tf-dr-da/)
-- [What Is Offpage SEO?](https://granwehr.com/blog/off-page-seo)
-- [Ahrefs](https://ahrefs.com/blog/free-keyword-research-tools/) - Best Free Keyword Research Tools
-- [Ahrefs SEO Tools](https://ahrefs.com/blog/free-seo-tools/) - Free SEO Tools Collection From Ahrefs
 
 ## Utility Software
 - [Windows 10/11 Debloater](https://github.com/Raphire/Win11Debloat) - Easy to use PowerShell script to debloat windows
