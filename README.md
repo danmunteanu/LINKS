@@ -14,12 +14,10 @@ This is my collection of links and interests in a very loose order.
 - [Courses](COURSES.md)
 
 ## Table Of Contents (Current File)
-- [Utilities](#utilities)
 - [Markdown](#markdown)	
-- [Utility Software](#utility-software)
+- [Windows Utilities](#windows-utility-software)
 - [Music Programming](#music-programming)
 - [Music Theory](#music-theory)
-- [Radio software](#radio-software)
 - [Music](#music)
 - [Health](#health)
 - [For Romanian Businesses](#for-romanian-businesses)
@@ -39,9 +37,7 @@ This is my collection of links and interests in a very loose order.
 - [WinUtils](https://github.com/christitustech/winutil) - Chris Titus Tech's Windows Debloating Utilities
 - [Chocolatey](https://community.chocolatey.org/) - Largest repository of Winows packages
 
-## Music Programming
-
-### Music Theory
+## Music Theory
 - [Affective Musical Key Characteristics](https://legacy.wmich.edu/mus-theo/courses/keys.html) 
 - [How You Should Feel in the Key of C Sharp Major / D flat major](https://interlude.hk/feel-key-c-sharp-major-d-flat-major/)
 - [How You Should Feel in the Key of G Minor](https://interlude.hk/feel-key-g-minor/)
@@ -50,7 +46,7 @@ This is my collection of links and interests in a very loose order.
 - [Oh Sheet!](https://github.com/Oh-Sheet-Team/oh-sheet) - Music Transcriber
 - [Gammes](https://gammes.gridsound.com/) - Nice music theory site
 
-### Music
+## Worthy Music
 - [Equus Caballus](https://menitrust.bandcamp.com/album/equus-caballus) - Music Album From *Men I Trust*
 - [No Rest For The Wicked (Original Early Access Soundtrack)](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu?flow_ctx=d3365456-b736-45ee-95f2-5b26df744c42%3A1752679796)
 
