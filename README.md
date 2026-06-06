@@ -1,7 +1,18 @@
 # A collection of handy bookmarks
-As I explored many of my interests, my collection of links grew and grew. One day, I thought to myself *why not make them public?* Here are a bunch of links I've found interesting, in a very loose order.
+This is my collection of links and interests in a very loose order.
 
-## Table Of Contents
+## Lists
+- [[SOFTWARE_DEV]]
+- [[FREELANCING]]
+- [[BLOGGING]]
+- [[WEB_DEV]]
+- [[JAVASCRIPT]]
+- [[PATH_OF_EXILE_1]]
+- [[CHUCK]]
+- [[VOICEOVER]]
+- [[COURSES]]
+
+## Table Of Contents (Current File)
 - [Media (images, logos, templates, sound fx)](#media-images-logos-templates-sound-fx)
 - [Utilities](#utilities)
 - [Web Development](#web-development)	
