@@ -2,15 +2,15 @@
 This is my collection of links and interests in a very loose order.
 
 ## Lists
-- [[SOFTWARE_DEV]]
-- [[FREELANCING]]
-- [[BLOGGING]]
-- [[WEB_DEV]]
-- [[JAVASCRIPT]]
-- [[PATH_OF_EXILE_1]]
-- [[CHUCK]]
-- [[VOICEOVER]]
-- [[COURSES]]
+- [Software Dev](SOFTWARE_DEV)
+- [Freelancing](FREELANCING)
+- [Blogging & SEO](BLOGGING)
+- [Web Development](WEB_DEV)
+- [Javascript](JAVASCRIPT)
+- [Path of Exile 1](PATH_OF_EXILE_1)
+- [Chuck Music Programming](CHUCK)
+- [Voiceover Resources](VOICEOVER)
+- [Courses](COURSES)
 
 ## Table Of Contents (Current File)
 - [Media (images, logos, templates, sound fx)](#media-images-logos-templates-sound-fx)
