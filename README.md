@@ -215,6 +215,7 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [Unit Generators](https://chuck.stanford.edu/doc/language/ugen.html)
 - [Classes & Objects](https://chuck.cs.princeton.edu/doc/language/class.html)
 - [UGen](https://chuck.cs.princeton.edu/doc/program/ugen_full.html) - All Chuck UGens
+
 ### Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*
 - [12 - Panning and Randomization](https://www.youtube.com/watch?v=CifMDjAfHdA)
 - [09 - ADSR](https://www.youtube.com/watch?v=zSkbXPwMNcM)
@@ -227,6 +228,7 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [How You Should Feel in the Key of G Minor](https://interlude.hk/feel-key-g-minor/)
 - [ThinkSpace - Learn Music Theory](https://thinkspace.ac.uk/courses/learn-music-theory/) - Amazing Music Theory Course by Guy Mitchelmore (Paid)
 - [Music Theory Tools](https://www.musictheory.net/tools) - Chord calculator, accidental calculator, interval calculator, etc...
+- [Oh Sheet!](https://github.com/Oh-Sheet-Team/oh-sheet) - Music Transcriber
 - [Gammes](https://gammes.gridsound.com/) - Nice music theory site
 
 ### Radio software
