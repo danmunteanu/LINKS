@@ -25,9 +25,6 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [Music Theory](#music-theory)
 - [Radio software](#radio-software)
 - [Music](#music)
-- [Path Of Exile](#path-of-exile)
-	- [Guides, Tutorials](#guides-tutorials)
-	- [Tools](#tools)
 - [Health](#health)
 - [Audio Processing](#audio-processing)
 - [Voiceover Resources](#voiceover-resources)
@@ -40,7 +37,6 @@ As I explored many of my interests, my collection of links grew and grew. One da
 		- [Voiceovers](#voiceovers)
 		- [Music Production](#music-production)
 - [Fedora](#fedora)
-
 
 ## Media (images, logos, templates, sound fx)
 - [Pixabay](https://pixabay.com/) - Free high-quality images
@@ -237,26 +233,6 @@ As I explored many of my interests, my collection of links grew and grew. One da
 ### Music
 - [Equus Caballus](https://menitrust.bandcamp.com/album/equus-caballus) - Music Album From *Men I Trust*
 - [No Rest For The Wicked (Original Early Access Soundtrack)](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu?flow_ctx=d3365456-b736-45ee-95f2-5b26df744c42%3A1752679796)
-
-## Path Of Exile
-### Guides, Tutorials
-- [MaxRoll.gg](https://maxroll.gg/poe) - Path Of Exile Build Guides
-- [POE Vault](https://www.poe-vault.com/guides/builds-for-path-of-exile) - Ghazzy TV's Build Guides For Path Of Exile
-- [POE Vault Leveling Guide](https://www.poe-vault.com/guides/quick-reference-leveling-guide-act-1)
-- [Trial Of Ascendancy Locations](https://www.poewiki.net/wiki/Trial_of_Ascendancy)
-- [Delve Guide To Fractured Walls](https://www.pathofexile.com/forum/view-thread/2204851/page/4)
-
-### Tools
-- [Path Of Building](https://pathofbuilding.community/) - Community Edition fork of Path of Building
-- [FilterBlade](https://www.filterblade.xyz/) - Popular Item Filter
-- [Awakened Poe Trade](https://github.com/SnosMe/awakened-poe-trade/) - Price check
-- [POE Trade](https://www.pathofexile.com/trade) - The official Path Of Exile trade site
-- [X-Mouse](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm) - Remap your mouse buttons
-- [PoeNinja](https://poe.ninja/builds/mercenaries) - Other people's builds
-- [Craft Of Exile](https://www.craftofexile.com/) - Item crafting simulator
-- [Path Of Exile Regex](https://poe.re/) - Prepare your regular expressions
-- [PoeDb](https://poedb.tw/us/)
-- [Chromatic Calculator](https://siveran.github.io/calc.html) 
 
 ## Health
 - [Color Tests (Romanian)](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
