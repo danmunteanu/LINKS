@@ -6,10 +6,8 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [Utilities](#utilities)
 - [Software Development](#software-development)
 - [Text Editors & IDEs](#text-editors--ides)
-- [Web Development](#web-development)
-	- [HTML & Web Utils](#html--web-utils)
-	- [Markdown](#markdown)
-	- [Laravel & PHP](#laravel--php)
+- [Web Development](#web-development)	
+	- [Markdown](#markdown)	
 	- [Wordpress](#wordpress)
 - [Blogging & Writing](#blogging--writing)
 - [SEO](#seo)
@@ -75,35 +73,7 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [Atom](https://atom-editor.cc/) - Hackable text editor *(discontinued*)
 - [Rider](https://www.jetbrains.com/rider/) - Jetbrains .NET and game dev IDE
 
-## Web Development
-### HTML & Web Utils
-- [HTML Formatter](https://www.freeformatter.com/html-formatter.html) - Format your HTML code
-- [HTML Reference](https://htmlreference.io/) - Free guide to all HTML elements
-- [HTML RFC2161](https://datatracker.ietf.org/doc/html/rfc2616) - Hypertext Transfer Protocol HTTP/1.1
-- [Bulma CSS](https://bulma.io/) - The Modern CSS Framework
-- [Jekyll Ruby](https://jekyllrb.com/) - Convert plain text to static sites
-- [Netlify.app](https://stwd.netlify.app/resources) - Free resources to learn web development
-- [FrontMatter Guide](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/)
-- [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
-- [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
-- [Responsive Vertical Timeline](https://codyhouse.co/demo/vertical-timeline/index.html) - Timeline Demo from CodyHouse
-- [Debug Bear](https://www.debugbear.com/blog) - How does the web work?
-- [CodyHouse](https://codyhouse.co/) - Web Design Templates
-- [ChurchCRM](https://churchcrm.io/) - A CRM for churches
-- [Easing Functions](https://easings.net/#) - Choose the right easing function
-- [Arweave](https://viewblock.io/arweave) - Arweave Blockchain exploration
-- [Lucide Icons](https://lucide.dev/) - Free icon library
-- [Hyper UI](https://www.hyperui.dev/) - Free Open Source Tailwind CSS v4 Components
-- [Site Didactic](https://web.ceiti.md/index.php) - (Romanian) Invata Dezvoltare Web
-- [11ty](https://www.11ty.dev/) - Static Site Generator
-- [JSON Formatter](https://jsonformatter.curiousconcept.com/) - Formats your JSON code
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
-- [DNSDumpster](https://dnsdumpster.com/) - Find subdomains
-
-### Laravel & PHP
-- [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
-- [Laravel Unique Validation For Multiple Columns](https://laraveldaily.com/post/laravel-unique-validation-multiple-columns)
-- [A Detailed Guide To PHP Debugging](https://stackify.com/php-debugging-guide/)
+## Web 
 
 ### Markdown
 - [The Best Markdown Guide](https://markdownguide.offshoot.io/getting-started/) - Getting started with Markdown
@@ -140,21 +110,6 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [Chocolatey](https://community.chocolatey.org/) - Largest repository of Winows packages
 
 ## Music Programming
-### Chuck - Music Programming Language
-- [List Of Audio Programming Languages](https://en.m.wikipedia.org/wiki/List_of_audio_programming_languages)
-- [Chuck](https://chuck.stanford.edu/) - Official Chuck Documentation
-- [WebChuck IDE](https://chuck.cs.princeton.edu/ide/)
-- [Deep Stuff Examples](https://chuck.stanford.edu/doc/examples/#deep)
-- [Chunity Documentation](https://chuck.stanford.edu/chunity/documentation/)
-- [Unit Generators](https://chuck.stanford.edu/doc/language/ugen.html)
-- [Classes & Objects](https://chuck.cs.princeton.edu/doc/language/class.html)
-- [UGen](https://chuck.cs.princeton.edu/doc/program/ugen_full.html) - All Chuck UGens
-
-### Creating Electronic Music With Chuck - *Tutorial Series by Clint Hoagland*
-- [12 - Panning and Randomization](https://www.youtube.com/watch?v=CifMDjAfHdA)
-- [09 - ADSR](https://www.youtube.com/watch?v=zSkbXPwMNcM)
-- [20 - Classes](https://www.youtube.com/watch?v=1E9IeA4rueA)
-- [40 - Making A Video Game Soundtrack](https://www.youtube.com/watch?v=JlikA_zDbnc)
 
 ### Music Theory
 - [Affective Musical Key Characteristics](https://legacy.wmich.edu/mus-theo/courses/keys.html) 
