@@ -1,8 +1,8 @@
-## Path Of Exile
+## Path Of Exile 1
 
 Everything related to Path of Exile 1 is here.
 
-### Guides, Tutorials
+### Guides and Tutorials
 - [MaxRoll.gg](https://maxroll.gg/poe) - Path Of Exile Build Guides
 - [POE Vault](https://www.poe-vault.com/guides/builds-for-path-of-exile) - Ghazzy TV's Build Guides For Path Of Exile
 - [POE Vault Leveling Guide](https://www.poe-vault.com/guides/quick-reference-leveling-guide-act-1)
