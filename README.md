@@ -6,15 +6,10 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [Utilities](#utilities)
 - [Software Development](#software-development)
 - [Text Editors & IDEs](#text-editors--ides)
-- [Resume Builders / Templates](#resume-builders--templates)
-- [Freelancing Sites](#freelancing-sites)
-- [Job Hunt](#job-hunt)
 - [Web Development](#web-development)
 	- [HTML & Web Utils](#html--web-utils)
 	- [Markdown](#markdown)
 	- [Laravel & PHP](#laravel--php)
-	- [Javascript Libraries](#javascript-libraries)
-	- [Three.js - 3D Graphics Javascript Library](#threejs---3d-graphics-javascript-library)
 	- [Wordpress](#wordpress)
 - [Blogging & Writing](#blogging--writing)
 - [SEO](#seo)
@@ -80,28 +75,6 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [Atom](https://atom-editor.cc/) - Hackable text editor *(discontinued*)
 - [Rider](https://www.jetbrains.com/rider/) - Jetbrains .NET and game dev IDE
 
-## Freelancing Sites
-- [Fiverr](https://www.fiverr.com/) - Gig Economy
-- [Upwork](https://www.upwork.com/) - Connecting clients *something, something*
-- [Freelancer](https://www.freelancer.com/) - Large freelancer marketplace
-- [PeoplePerHour](https://www.peopleperhour.com/) - Hire great freelancers
-- [Guru](https://www.guru.com) - Find & Hire Expert Freelancers
-
-## Job Hunting
-- [Simply Hired](https://www.simplyhired.com/) - Get hired!
-- [Flexjobs](https://www.flexjobs.com/homevariant/t2) - Find remote jobs
-- [Just Remote](https://justremote.co/) - Remote Jobs
-- [VueJobs](https://vuejobs.com/jobs) - Vue Jobs only
-- [DevJob.ro](https://devjob.ro/) - Romanian Dev Jobs
-- [Unde Lucram](https://www.undelucram.ro/ro/locuri-de-munca) - Jobs In Romania
-
-## Resume Builders / Templates
-- [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/#about)
-- [Dopefolio](https://dopefolio.netlify.app/#projects) - Projects portfolio DEMO
-- [Dopefolio](https://github.com/rammcodes/Dopefolio) - Source Code
-- [Resumake](https://resumake.io/) - Visually Design Your Resume
-- [Resume Genius](https://resumegenius.com/)
-
 ## Web Development
 ### HTML & Web Utils
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html) - Format your HTML code
@@ -127,52 +100,17 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
 - [DNSDumpster](https://dnsdumpster.com/) - Find subdomains
 
+### Laravel & PHP
+- [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
+- [Laravel Unique Validation For Multiple Columns](https://laraveldaily.com/post/laravel-unique-validation-multiple-columns)
+- [A Detailed Guide To PHP Debugging](https://stackify.com/php-debugging-guide/)
+
 ### Markdown
 - [The Best Markdown Guide](https://markdownguide.offshoot.io/getting-started/) - Getting started with Markdown
 - [Generate Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
 - [StackEdit](https://stackedit.io/app#) - Markdown Editor #1
 - [Dilinger.Io](https://dillinger.io) - Markdown Editor #2
 - [Cleaver](https://jdan.github.io/cleaver/) - Turn Markdown to slides
-
-### Laravel & PHP
-- [How To Dockerize Your Laravel App](https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74)
-- [Laravel Unique Validation For Multiple Columns](https://laraveldaily.com/post/laravel-unique-validation-multiple-columns)
-- [A Detailed Guide To PHP Debugging](https://stackify.com/php-debugging-guide/)
-
-### Javascript Libraries
-- [Vue.js](https://vuejs.org/) - Progressive Javascript Framework
-- [PrimeVue](https://primevue.org/) - UI Suite For Vue.js
-- [Element+](https://element-plus.org/en-US/) - Vue 3 based component library
-- [Anime.js](https://animejs.com/) - Fast Javascript Animations
-- [Paper JS](http://paperjs.org/) - The Swiss Army Knife of Vector Graphics Scripting
-- [Chart.js](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html) - Radar Chart
-- [Chart.js](https://www.chartjs.org/) - JavaScript charting library
-- [Apex Charts](https://apexcharts.com/javascript-chart-demos/column-charts/column-with-data-labels/) - Modern Open-Source Charts
-- [Masonry](https://masonry.desandro.com/) - Masonry Library
-- [Air Datepicker](https://air-datepicker.com/) - Lightweight, customizable datepicker written in pure JavaScript
-- [Luxon](https://moment.github.io/luxon/#/) - Wrapper for Javascript dates and times
-- [Wavesurfer](https://wavesurfer.xyz/) - Open-Source Audio Visualization Library
-- [LemonadeJS](https://lemonadejs.com/) - Agnostic Micro Reactive JavaScript Library
-- [LemonadeJS Timeline](https://lemonadejs.com/docs/plugins/timeline) - Timeline Plugin From Lemonade JS
-- [Vanta.js](https://www.vantajs.com/?effect=waves) - Animated Website Backgrounds
-- [Faker](https://fakerjs.dev/) - Generate Fake Data For Testing & Development
-- [Electron JS](https://www.electronjs.org/) - Build Cross-Platform Desktop Apps
-- [GraphQL](https://graphql.org/) - Query language for APIs
-- [Filepond](https://pqina.nl/filepond/?ref=pqina) - Upload any file, optimize images
-- [Howler.js](https://howlerjs.com/) - Audio library for the modern Web
-- [MD Timepicker](https://dmuy.github.io/MDTimePicker/) - Android-like round clock time picker
-- [Select2](https://select2.org/) - jQuery based replacement for select boxes
-- [Flatpickr](https://flatpickr.js.org/) - Lightweight and powerful datetime picker
-- [D3.js](https://d3js.org/) - Create custom dynamic visualizations 
-
-### Three.js - 3D Graphics Javascript Library
-- [Voxels](https://threejs.org/examples/#webgl_interactive_voxelpainter)
-- [Dancing Stormtrooper](https://threejs.org/examples/#webgl_loader_collada_skinning)
-- [Rendering Simple Text](https://threejs.org/examples/#webgl_geometry_text_shapes)
-- [Raycasting](https://threejs.org/examples/#webgl_instancing_raycast)
-- [Primitives](https://threejs.org/manual/#en/primitives)
-- [Box Geometry](https://threejs.org/docs/#api/en/geometries/BoxGeometry)
-- [Littlest Tokyo (Model)](https://sketchfab.com/3d-models/littlest-tokyo-94b24a60dc1b48248de50bf087c0f042)
 
 ### Wordpress
 - [Install Wordpress On Ubuntu Using Docker](https://www.hostinger.com/tutorials/run-docker-wordpress)
