@@ -1,6 +1,6 @@
 ## Software Development & IDE
 
-## Software Development
+### Software Development
 - [Design Patterns From Refactoring Guru](https://refactoring.guru/design-patterns) - Amazing book on design patterns
 - [Mermaid](https://mermaid.js.org/syntax/gitgraph.html) - Create Diagrams (Gantt, Pie, Class, GitGraph)
 - [Golas](https://golas.blog/) - Programming Blog
@@ -9,7 +9,7 @@
 - [Shared Pointers in C++](https://en.cppreference.com/w/cpp/memory/shared_ptr/reset.html)
 - [Mono Game](https://monogame.net/) Mono Game Library
 
-## Text Editors & IDEs
+### Text Editors & IDEs
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Sublime Text](https://www.sublimetext.com/)

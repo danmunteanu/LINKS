@@ -2,7 +2,7 @@
 This is my collection of links and interests in a very loose order.
 
 ## Lists
-- [Software Dev](SOFTWARE_DEV.md)
+- [Software Development](SOFTWARE_DEV.md)
 - [Freelancing](FREELANCING.md)
 - [Blogging & SEO](BLOGGING.md)
 - [Web Development](WEB_DEV.md)

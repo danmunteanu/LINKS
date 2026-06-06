@@ -1,5 +1,5 @@
 ## Voiceover
-*Links related to voiceover & audio processing.*
+*Everything related to voiceover & audio processing.*
 
 ## Audio Processing
 - [Enhance Speech v2](https://podcast.adobe.com/en/enhance) - Cleanup Your Audio

@@ -35,5 +35,5 @@
 - [Box Geometry](https://threejs.org/docs/#api/en/geometries/BoxGeometry)
 - [Littlest Tokyo (Model)](https://sketchfab.com/3d-models/littlest-tokyo-94b24a60dc1b48248de50bf087c0f042)
 
-### Optimize
+### Optimization
 - [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)

@@ -1,7 +1,9 @@
 ## Chuck Music Programming
 
-### The Chuck Language
-- [List Of Audio Programming Languages](https://en.m.wikipedia.org/wiki/List_of_audio_programming_languages)
+### Audio Programming Languages
+- [Audio Programming Languages List](https://en.m.wikipedia.org/wiki/List_of_audio_programming_languages)
+
+### The Chuck Programming Language
 - [Chuck](https://chuck.stanford.edu/) - Official Chuck Documentation
 - [WebChuck IDE](https://chuck.cs.princeton.edu/ide/)
 - [Deep Stuff Examples](https://chuck.stanford.edu/doc/examples/#deep)

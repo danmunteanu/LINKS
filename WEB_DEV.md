@@ -1,5 +1,5 @@
 ## Web Development
-*This part is still being organized*
+*This file is still being organized*
 
 ### HTML & CSS
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html) - Format your HTML code
@@ -23,14 +23,14 @@
 - [DNSDumpster](https://dnsdumpster.com/) - Find subdomains
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/) - Formats your JSON code
 
-## Components, Icons & Templates
+### Components, Icons & Templates
 - [CodyHouse](https://codyhouse.co/) - Web Design Templates
 - [Lucide Icons](https://lucide.dev/) - Free icon library
 - [Hyper UI](https://www.hyperui.dev/) - Free Open Source Tailwind CSS v4 Components
 - [Building A Responsive Vertical Timeline (VIDEO)](https://www.youtube.com/watch?v=lf9NVbcTV88)
 - [Responsive Vertical Timeline](https://codyhouse.co/demo/vertical-timeline/index.html) - Timeline Demo from CodyHouse
 
-## CRM & Other
+### CRM & Other
 - [ChurchCRM](https://churchcrm.io/) - A CRM for churches
 - [Arweave](https://viewblock.io/arweave) - Arweave Blockchain exploration
 

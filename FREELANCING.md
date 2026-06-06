@@ -1,6 +1,6 @@
 ## Freelancing
 
-### Sites + Platforms
+### Platforms
 - [Fiverr](https://www.fiverr.com/) - Gig Economy
 - [Upwork](https://www.upwork.com/) - Connecting clients *something, something*
 - [Freelancer](https://www.freelancer.com/) - Large freelancer marketplace
