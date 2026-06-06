@@ -19,16 +19,7 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [Radio software](#radio-software)
 - [Music](#music)
 - [Health](#health)
-- [Audio Processing](#audio-processing)
-- [Voiceover Resources](#voiceover-resources)
-- [Romanian Voiceover](#romanian-voiceover)
 - [For Romanian Businesses](#for-romanian-businesses)
-- [Courses](#courses)
-	- [Domestika.org](#domestikaorg)
-		- [HTML & Web](#html--web)
-		- [DJ & Mixing](#dj--mixing)
-		- [Voiceovers](#voiceovers)
-		- [Music Production](#music-production)
 - [Fedora](#fedora)
 
 ## Media (images, logos, templates, sound fx)
@@ -120,9 +111,6 @@ As I explored many of my interests, my collection of links grew and grew. One da
 - [Oh Sheet!](https://github.com/Oh-Sheet-Team/oh-sheet) - Music Transcriber
 - [Gammes](https://gammes.gridsound.com/) - Nice music theory site
 
-### Radio software
-- [Zetta](https://www.rcsworks.com/zetta/) - Radio Automation (PAID)
-
 ### Music
 - [Equus Caballus](https://menitrust.bandcamp.com/album/equus-caballus) - Music Album From *Men I Trust*
 - [No Rest For The Wicked (Original Early Access Soundtrack)](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu?flow_ctx=d3365456-b736-45ee-95f2-5b26df744c42%3A1752679796)
@@ -130,46 +118,10 @@ As I explored many of my interests, my collection of links grew and grew. One da
 ## Health
 - [Color Tests (Romanian)](https://www.ro.colorlitelens.com/teste-discromatopsie.html)
 
-## Audio Processing
-- [Enhance Speech v2](https://podcast.adobe.com/en/enhance) - Cleanup Your Audio
-- [2nd Opinion](https://stevenjaycohen.com/2015/10/08/get-a-2nd-opinion-before-sending-off-that-audiobook/) – Before sending that audiobook
-- [PaulXStretch](https://sonosaurus.com/paulxstretch/) – Radical transformation of sounds
-- [CoeFont](https://coefont.cloud/en) - AI Voices
-- [PluginGuiMagic](https://foleysfinest.com/developer/pluginguimagic/) - Design your audio plugin GUI 
-
-## Voiceover Helpers
-- [Cronometer](https://voce.md/en/cronometer) - Script reading duration estimate
-- [Quillbot](https://quillbot.com) - AI Writer, Paraphrasing
-
-## Romanian Voiceover
-- [Exercitii De Dictie Zile Libere](https://www.dictie.ro/exercitii-dictie-zilele-libere/)
-- [Exercitii De Dictie Complicate](https://www.dictie.ro/iata-cateva-exercitii-de-dictie-complicate/)
-- [Exercitii De Dictie Provocari](https://www.dictie.ro/noi-provocari-exercitii-dictie/)
-- [Antrenament Exercitii De Dictie](https://www.dictie.ro/antrenament-exercitii-de-dictie/)
-- [Exercitii De Dictie Celebre](https://www.dictie.ro/25-de-exercitii-de-dictie-celebre/)
-
 ## For Romanian Businesses
 - [StartCo](https://cloud.startco.ro/dashboard) - Pornește-ți Afacerea
 - [Generator Declarație Unică](https://startco.ro/declaratia-unica)
 - [Insuretech](https://insuretech.ro/) - Gestiuneaza-ți Afacerea
-
-## Courses 
-- [Class Central](https://www.classcentral.com/) - Find your next course
-
-### Domestika.org
-#### HTML & Web
-- [Introduction to Responsive Web Development with HTML and CSS](https://www.domestika.org/en/courses/74-introduction-to-responsive-web-development-with-html-and-css)
-- [Web Layout with CSS Grid, Flexbox and other Modern Techniques](https://www.domestika.org/en/courses/389-web-layout-with-css-grid-flexbox-and-other-modern-techniques)
-#### DJ & Mixing
-- [Electronic Music Mixing From Beginner To DJ](https://www.domestika.org/en/courses/1078-electronic-music-mixing-from-beginner-to-dj)
-- [Live Mixing - Your First DJ Set With Pioneer DJ](https://www.domestika.org/en/courses/4278-live-mixing-your-first-dj-set-with-pioneer-dj)
-#### Voiceovers
-- [Intro To Voice Over Techniques For Advertising](https://www.domestika.org/en/courses/3837-intro-to-voice-over-techniques-for-advertising)
-- [Introduction To Voice-Over Narration](https://www.domestika.org/en/courses/2763-introduction-to-voice-over-narration)
-- [Introduction To Voice Recording Techniques](https://www.domestika.org/en/courses/3538-introduction-to-voice-recording-techniques)
-#### Music Production
-- [Introduction To Music Production](https://www.domestika.org/en/courses/2419-introduction-to-music-production)
-- [Music Theory And Scoring For Film](https://www.domestika.org/en/courses/4584-music-theory-and-scoring-for-film)
 
 ## Fedora
 - [How To Change Fedora Splash Screen](https://www.makeuseof.com/how-to-change-fedora-splash-screen/)
