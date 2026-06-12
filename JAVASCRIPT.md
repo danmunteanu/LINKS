@@ -37,3 +37,4 @@
 
 ### Optimization
 - [How To Reduce Unused Javascript](https://www.debugbear.com/blog/reduce-unused-javascript)
+- [Google Drive View Only PDF Downloader Script](https://github.com/zavierferodova/Google-Drive-View-Only-PDF-Script-Downloader)
