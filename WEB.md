@@ -1,5 +1,5 @@
 ## Web Development
-*This file is still being organized*
+*Everything related to Web Development*
 
 ### HTML & CSS
 - [HTML Formatter](https://www.freeformatter.com/html-formatter.html) - Format your HTML code
@@ -13,7 +13,7 @@
 - [FrontMatter Guide](https://chriskyfung.github.io/amp-affiliately-jekyll-theme/front-matter-guide/)
 - [11ty](https://www.11ty.dev/) - Static Site Generator
 
-### Learning Web Dev
+### Learning Web Development
 - [Site Didactic](https://web.ceiti.md/index.php) - (Romanian) Invata Dezvoltare Web
 - [Netlify.app](https://stwd.netlify.app/resources) - Free resources to learn web development
 - [Debug Bear](https://www.debugbear.com/blog) - How does the web work?
