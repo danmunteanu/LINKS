@@ -17,11 +17,12 @@ This is my collection of links and interests in a very loose order.
 - [Courses](COURSES.md)
 
 ## Current File (TOC)
+- [Music](#music)
 - [Health](#health)
 - [For Romanian Businesses](#for-romanian-businesses)
 - [Fedora](#fedora)
 
-## Worthy Music
+## Music
 - [Equus Caballus](https://menitrust.bandcamp.com/album/equus-caballus) - Music Album From *Men I Trust*
 - [No Rest For The Wicked (Original Early Access Soundtrack)](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu?flow_ctx=d3365456-b736-45ee-95f2-5b26df744c42%3A1752679796)
 
