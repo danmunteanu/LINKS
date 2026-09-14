@@ -17,7 +17,6 @@ This is my collection of links and interests in a very loose order.
 - [Courses](COURSES.md)
 
 ## Current File (TOC)
-- [Music](#music)
 - [Health](#health)
 - [For Romanian Businesses](#for-romanian-businesses)
 - [Fedora](#fedora)
