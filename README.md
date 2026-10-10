@@ -5,7 +5,7 @@ This is my collection of links and interests in a very loose order.
 - [Media (images, logos, sound fx)](MEDIA.md)
 - [Software Development](SOFTWARE_DEV.md)
 - [Javascript](JAVASCRIPT.md)
-- [Web Development](WEB_DEV.md)
+- [Web Development](WEB.md)
 - [Blogging & SEO](BLOGGING.md)
 - [Freelancing](FREELANCING.md)
 - [Path of Exile 1](PATH_OF_EXILE_1.md)
