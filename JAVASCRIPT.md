@@ -5,9 +5,9 @@
 - [PrimeVue](https://primevue.org/) - UI Suite For Vue.js
 - [Element+](https://element-plus.org/en-US/) - Vue 3 based component library
 - [Anime.js](https://animejs.com/) - Fast Javascript Animations
-- [Paper JS](http://paperjs.org/) - The Swiss Army Knife of Vector Graphics Scripting
-- [Chart.js](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html) - Radar Chart
+- [Paper JS](https://paperjs.org/examples/q-bertify/) - The Swiss Army Knife of Vector Graphics Scripting
 - [Chart.js](https://www.chartjs.org/) - JavaScript charting library
+- [Chart.js](https://www.chartjs.org/docs/latest/samples/other-charts/radar.html) - Radar Chart
 - [Apex Charts](https://apexcharts.com/javascript-chart-demos/column-charts/column-with-data-labels/) - Modern Open-Source Charts
 - [Masonry](https://masonry.desandro.com/) - Masonry Library
 - [Air Datepicker](https://air-datepicker.com/) - Lightweight, customizable datepicker written in pure JavaScript
